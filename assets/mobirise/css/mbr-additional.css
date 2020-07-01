@@ -1294,6 +1294,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rCtoyFxPuY {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
 @media (min-width: 992px) {
@@ -1317,7 +1319,7 @@ section.lazy-placeholder:after {
 }
 .cid-rCtoyFxPuY .mbr-text,
 .cid-rCtoyFxPuY .mbr-section-btn {
-  color: #465052;
+  color: #232323;
   text-align: left;
 }
 .cid-rCtoyFxPuY P {
@@ -1422,88 +1424,6 @@ section.lazy-placeholder:after {
   left: 0;
   width: 100%;
   overflow: hidden;
-}
-.cid-rCtVA0qxus {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-rCtVA0qxus .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rCtVA0qxus H2 {
-  color: #ffffff;
-}
-.cid-rCtW6Ts9ot {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rCtW6Ts9ot .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rCtW6Ts9ot .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rCtW6Ts9ot .media-container-row {
-    flex-wrap: wrap-reverse;
-    -webkit-flex-wrap: wrap-reverse;
-  }
-  .cid-rCtW6Ts9ot .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rCtW6Ts9ot .mbr-text {
-  color: #767676;
-}
-.cid-rCtXATkuIR {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rCtXATkuIR .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rCtXATkuIR .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rCtXATkuIR .media-container-row {
-    flex-wrap: wrap-reverse;
-    -webkit-flex-wrap: wrap-reverse;
-  }
-  .cid-rCtXATkuIR .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rCtXATkuIR .mbr-text {
-  color: #767676;
-}
-.cid-rCtZ0SVyxf {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rCtZ0SVyxf .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rCtZ0SVyxf .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rCtZ0SVyxf .mbr-text {
-  color: #767676;
-  text-align: left;
 }
 .cid-rCtzcKLVbL {
   padding-top: 30px;
