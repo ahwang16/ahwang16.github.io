@@ -87,7 +87,7 @@
       "settings": {
         "main": true,
         "title": "Alyssa Hwang | Home",
-        "meta_descr": "",
+        "meta_descr": "Alyssa Hwang is PhD student in computer science at the University of Pennsylvnia. She is interested in NLP, especially the intersections between CS, sociolinguistics, psychology, and social media.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -821,7 +821,7 @@
         }
       ]
     },
-    "page1.html": {
+    "interests.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Alyssa Hwang | Just for Fun",
