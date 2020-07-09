@@ -2560,7 +2560,7 @@ section.lazy-placeholder:after {
 }
 .cid-s478tlwFpx {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s478tlwFpx .card-box {
@@ -2586,6 +2586,40 @@ section.lazy-placeholder:after {
   transition: box-shadow 0.3s;
 }
 .cid-s478tlwFpx .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-s4dmOtaYik {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #efefef;
+}
+.cid-s4dmOtaYik .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-s4dmOtaYik h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s4dmOtaYik p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s4dmOtaYik .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s4dmOtaYik .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s4dmOtaYik .card-img {
   position: absolute;
   top: 0;
   left: 0;
