@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Hwang",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4094,9 +4094,9 @@
         }
       ]
     },
-    "page5.html": {
+    "letters_of_rec.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Who to ask, when to ask, and how to prepare for letters of recommendation.",
         "title": "Alyssa Hwang | Letters of Recommendation",
         "order": 1
       },
