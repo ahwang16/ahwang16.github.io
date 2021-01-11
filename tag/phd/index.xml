@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | Alyssa Hwang</title>
+    <link>https://ahwang16.github.io/tag/phd/</link>
+      <atom:link href="https://ahwang16.github.io/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 20:59:31 -0500</lastBuildDate>
+    <image>
+      <url>https://ahwang16.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>phd</title>
+      <link>https://ahwang16.github.io/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>A Very General Guide to PhD and Fellowship Apps</title>
+      <link>https://ahwang16.github.io/post/phd-fel-start-here/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/phd-fel-start-here/</guid>
+      <description>&lt;p&gt;&lt;em&gt;You may be wondering where to get started when it comes to PhD admissions. You might not know that you should also be applying to fellowship apps at the same time. Here is a basic overview of the material you’ll need to prepare, all in the same place. Of course, each application will have its own individual set of rules and requirements, but most applications are some modification or combination of the pieces I’ve outlined below: personal statement, statement of purpose, research proposal, test scores/transcripts, and letters of recommendation. I’ll first go over the basics of fellowship and PhD applications along with some best practices, then I’ll explain each piece of the applications in a separate section.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#fellowship-applications&#34;&gt;Fellowship Applications&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#phd-applications&#34;&gt;PhD Applications&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#about-masters-and-us-vs-european-programs&#34;&gt;About Masters (and US vs. European) Programs&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&#34;fellowship-applications&#34;&gt;Fellowship Applications&lt;/h2&gt;
+&lt;p&gt;In general, PhD students will be offered admission with full funding. This means that the university will pay you a stipend of about $30,000 a year to cover the cost of living while you are a student there. The university will also cover your tuition and possibly some other fees, so this essentially feels like you are being paid to go to school. The source of all this money, however, is very important. This money will come from one of your future advisor’s grants, and these grants are awarded to accomplish specific goals. This means that if you are paid by a grant, you need to conduct research that contributes to that grant’s goals. This limits the scope of your research. Fellowships, however, pay you. With a fellowship, you are free to research pretty much whatever interests you. You might also become exempt from any TA or RA duties. To your advisor, you are a free student, so your advisor saves money. When your advisor saves money, the university saves money. Money makes people happy.&lt;/p&gt;
+&lt;p&gt;On top of that, fellowships are usually a prestigious addition to your CV, and winning fellowships now helps you win fellowships later. Review boards like to give money to people who have already been trusted by others with their money. I should note that prestigious fellowships are often extremely competitive; many qualified candidates are not awarded simply because there are not enough awards. This is a recurring theme in academia (and, honestly, life). If you don’t receive fellowships, don’t take it too personally. Dust yourself off, look for feedback, and try again. Here’s an overview of what fellowship applications usually require. &lt;strong&gt;Note that fellowship applications are typically due in October, which is quite a bit earlier than PhD applications (due in December).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To apply to a fellowship, you will typically need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The personal statement (2-3 pages single-spaced)&lt;/strong&gt; describes your experiences and motivations to pursue research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The research proposal (2-3 pages single-spaced)&lt;/strong&gt; describes the specific research questions you will investigate, methods you will use, and results you expect to generate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Letters of recommendation (3+)&lt;/strong&gt; can come from research professors, professional supervisors, or anyone who knows you well in an academic sense. Note that some fellowships (like NSF or Ford) care about more than just research, so you may need to think about looking for people who can highlight your whole character. PhD programs emphasize research a lot more.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here are some fellowships that undergraduates are eligible for. Note that many research fellowships do not provide funding for professional degrees, like the MD, so most of these would not cover medical school. Also note that many fellowships provide a number of years of funding over a certain time frame. For example, the NSF GRFP awards $34,000 per year for three years, but you have five years to use this money. You don’t have to take money from the NSF GRFP for three years in a row. This is helpful because you are not allowed to take fellowship money from more than one source at a time. So if you were awarded the NSF one year and the Ford Fellowship the next year, you can “take a year off” from the NSF and receive money from Ford, which would allow you to benefit from two fellowships at once even though you are only receiving money from one at a time. Did that make sense?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nsfgrfp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF GRFP&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Very prestigious and well-known fellowship for wide range of STEM disciplines&lt;/li&gt;
+&lt;li&gt;College seniors, first-year graduate students, and second-year graduate students are eligible to apply (with some complex caveats)&lt;/li&gt;
+&lt;li&gt;Focuses on “funding the person, not the project”: the NSF is interested in your “intellectual merit” and “broader impacts,” so the personal statement is quite important&lt;/li&gt;
+&lt;li&gt;Awards $34,000/year for three years over a five-year period&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ford&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly selective fellowship for students who have contributed to expanding diversity in STEM fields and are committed to teaching and research at the university level&lt;/li&gt;
+&lt;li&gt;Predoctoral (requiring minimum of three years to finish first doctoral degree), dissertation, and postdoctoral competitions available&lt;/li&gt;
+&lt;li&gt;Awards $27,000/year for three years over a five-year period&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hertzfoundation.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hertz&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Extremely prestigious and selective fellowship for superior academic achievement in STEM fields&lt;/li&gt;
+&lt;li&gt;College seniors and first-year graduate students may apply&lt;/li&gt;
+&lt;li&gt;Awards $34,000/9 months, renewable annually for up to five years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://knight-hennessy.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford Knight-Hennessey&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Scholars program that fully covers three years of graduate study at Stanford (including professional programs like MBA, JD, and MD) and provides a stipend for living expenses&lt;/li&gt;
+&lt;li&gt;Admissions to the graduate program and the scholarship are separate!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other fellowships
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://research.fb.com/fellowship/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.research.ibm.com/university/awards/fellowships.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://research.google/outreach/phd-fellowship/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;phd-applications&#34;&gt;PhD Applications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PhD applications are typically due in mid-December.&lt;/strong&gt; In general, you will apply to a specific department and indicate interests in whatever subfields are applicable to you (this might be in the form of checkboxes or dropdown menus). The application form may also have a section for you to indicate specific professors you are interested in working with. PhD applications are a step up from college applications: it’s not enough to consider just the reputation of the university or program. &lt;strong&gt;Your relationship with your advisor is the most important part of your PhD, so you should carefully consider the individual people who work at each lab.&lt;/strong&gt; Research fit is crucial. You and your advisor should have many coinciding interests. Take a look at their recent publications and current students and see if anyone is working on anything you are interested in. If you currently have a research advisor or know anyone in grad school, you can also ask them for their thoughts. If you have no idea where to start, you can take a look at csrankings.org and start with the top X programs in CS or your intended subfield. Just don’t like these rankings be the start and end of your search.&lt;/p&gt;
+&lt;p&gt;Some schools, like UPenn, Princeton, and Stanford, offer PhD Open Houses. These are great opportunities to visit the schools, meet professors and current students, and learn more about the application process before applying. On top of that, the schools will fund your travels and (sometimes) give you an application fee waiver! Keep your eyes open for these kinds of events. Stanford’s is very early—their Open House is in March, so you would visit in spring of junior year—and Princeton and UPenn host their Open Houses in October of senior year.&lt;/p&gt;
+&lt;p&gt;To apply to a PhD program, you will typically need the following materials.
+&lt;em&gt;Note that the personal statement and statement of purpose are sometimes combined; the school may ask for one essay about what you want to study and why.&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The personal statement (2-3 pages)&lt;/strong&gt; describes your experiences and motivations to pursue research. This portion of the application is about you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The statement of purpose (2-3 pages)&lt;/strong&gt; describes the specific area that you would like to study. This portion of the application is about your research.
+&lt;ul&gt;
+&lt;li&gt;The statement of purpose for a PhD application is usually less intense than the research proposal for a fellowship application!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Letters of recommendation (3+)&lt;/strong&gt; Most schools want exactly three recommendation letters. Some schools allow you to submit up to six.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other materials&lt;/strong&gt; like transcript, GRE scores (sometimes optional, especially during the pandemic), application fee (around $80 with fee waivers available on a case-by-case basis).
+&lt;ul&gt;
+&lt;li&gt;Note that the computer science GRE subject test does exist but is not used for admissions anymore.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;about-masters-and-us-vs-european-programs&#34;&gt;About Masters (and US vs. European) Programs&lt;/h2&gt;
+&lt;p&gt;In the US, a masters is generally considered a terminal degree: after you finish your masters degree, you can go off and do whatever you’d like, whether that’s apply to PhD programs, work in industry, teach, whatever. A masters degree is not required to apply for a PhD because PhD students already spend their first two years taking graduate-level classes (unfortunately, a masters earned before a PhD program does not completely wipe out these requirements). A masters in CS takes two to three semesters and a PhD takes five to seven years. PhD students in the US typically earn a masters (more specifically, an M.Phil.) along the way. You might have heard of some students “mastering out,” or exiting the PhD program after receiving their masters. This is technically a free masters—PhD students are fully funded, remember? Sometimes people leave PhD programs for a variety of reasons, and that’s okay. What’s not okay is applying for a PhD with the intention of leaving with a “free masters.” Please don’t do that.&lt;/p&gt;
+&lt;p&gt;I didn’t apply to masters programs so I don’t have all the details, but I do want to talk a little bit about the masters degree since it is a significant part of graduate school programs as a whole. I also want to be clear that the information here is specific to computer science in the US—different disciplines and regions will have different systems and expectations for education. A huge variety of masters programs exist in the US, with an impressively large number of masters degrees to go along with them: MS, MA, MEng, MPH, MPP, MBA, MEd, MSW, MPhil, MNOPQRSTUV… haha. All I really know is if you want a masters in computer science, you will probably be going for an MS (master of science) or MSE (master of science in engineering). There are course-based masters (you just take classes) and research-based masters (you will write some sort of masters thesis/dissertation and possibly defend it). A masters in computer science is not strictly necessary in the US: you can go straight into industry or a PhD program right after undergrad. It may, however, be beneficial to you if one or more of the following apply to you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You would like more research experience or publications before applying.&lt;/li&gt;
+&lt;li&gt;You would like to improve your GPA.&lt;/li&gt;
+&lt;li&gt;You would like to connect with more professors and/or strengthen relationships with recommendation letter writers.&lt;/li&gt;
+&lt;li&gt;You are not sure about committing to a PhD program and would like more exposure before applying.
+You were rejected from the school’s PhD program but accepted to the masters program and would like the opportunity to “convert” to a PhD at the same school.
+&lt;ul&gt;
+&lt;li&gt;The process for entering the PhD program for a school you are already pursuing a masters at varies wildly, but I heard it can be done! If this applies for you, definitely ask around.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;You would like to transition into a new field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The important thing to note is that a masters itself does not guarantee anything or increase your changes. It gives you the opportunity to learn and work more; what you produce through your masters (connections, publications, knowledge, experience) makes you a stronger candidate. You should also know that masters programs are expensive. Many universities use masters programs to generate revenue, so not many programs provide financial aid. You can try looking for TAships, RAships, and fellowships to help offload the cost. If you choose to pursue a masters, do so with a concrete goal in mind and proactively work on it once you get there.&lt;/p&gt;
+&lt;p&gt;Masters and PhD programs in Europe are different. In Europe, a PhD only takes about three to four years. This is because a European PhD is just research, no courses. European PhD applications typically require applicants to have already earned a masters in a related field before enrolling. If you are thinking about going abroad for your PhD, you should know that you will need a masters first. Where you pursue your PhD will likely affect where you form your professional network, so consider location carefully if you are thinking of moving to another country.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Statement/Statement of Purpose</title>
+      <link>https://ahwang16.github.io/post/ps-sop/</link>
+      <pubDate>Sun, 10 Jan 2021 19:25:26 -0500</pubDate>
+      <guid>https://ahwang16.github.io/post/ps-sop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying for the GRE</title>
+      <link>https://ahwang16.github.io/post/gre/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/gre/</guid>
+      <description>&lt;p&gt;The GRE (Graduate Record Examination) General Test is the standardized test for PhD admissions. It’s about five hours long, administered on the computer, and has Verbal Reasoning (reading comprehension), Quantitative Reasoning (math), and Analytical Writing (two essays) sections. It also costs over $200, so you’ll want to try your best to take it only once. Here are my tips for hitting a high score the first time around.&lt;/p&gt;
+&lt;p&gt;Note: schools have been increasing leaning away from requiring the GRE, especially during the pandemic. My opinion on submitting GRE scores for test-optional schools is that a good score will help a little (especially if your GPA is on the lower side) or do nothing. A low score, however, may hurt you. I&amp;rsquo;m still just a student and haven&amp;rsquo;t served on any sort of admissions committee, so take my advice with the usual grain of salt!&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s a good GRE score? Generally speaking, I think 160+ on reading and math and 4.5+ on writing. 165+ on reading and math is even better. Another good metric is to look up the middle 50% range of each department you are interested in and aim for the bigger number. Your GRE score is just one part of your profile, and your personal statement and letters of recommendation will matter a lot more, so don&amp;rsquo;t let this part stress you out too much! Now, on to the good stuff.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#mimic-your-test-conditions-as-much-as-possible&#34;&gt;Mimic your test conditions as much as possible.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#focus-on-the-quantitative-reasoning-section&#34;&gt;Focus on the Quantitative Reasoning section.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#yolo-the-verbal-reasoning-section&#34;&gt;YOLO the Verbal Reasoning section.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#write-well-structured-not-well-written-essays-on-the-analytical-writing-section&#34;&gt;Write well-structured, not well-written, essays on the Analytical Writing section.&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#analyze-an-issue&#34;&gt;Analyze an Issue&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#analyze-an-argument&#34;&gt;Analyze an Argument&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&#34;mimic-your-test-conditions-as-much-as-possible&#34;&gt;Mimic your test conditions as much as possible.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The GRE is on the computer, which means that you won’t be able to scribble on the page or mark up passages like you might be used to for paper exams. I highly suggest taking online exams or propping your book up while practicing—even for practice problems outside of mock exams.&lt;/li&gt;
+&lt;li&gt;You are given limited amounts of scrap paper at a time. The scrap paper is about twice the size of a US letter sheet, folded hamburger style, with a bit of text on the front. If you want a new piece of scrap paper, you have to get your test administrator’s attention, wait for them to walk over, ask for a new piece, wait for them to go get it, wait for them to come back, and then trade your old piece for the new one. This is distracting and time consuming. Practice with limited amounts of scrap paper and ask for a new sheet at the beginning of every section, just to be safe.&lt;/li&gt;
+&lt;li&gt;You are given one pencil at a time. You are not allowed to use your own. The pencil is one of those standard no. 2 pencils, the kind that gets dull quickly if you write too much or with too much pressure. If you are used to using mechanical pencils, you may be taking the instant &lt;em&gt;click click&lt;/em&gt; for granted. When your pencil gets dull, you need to ask to trade it for a new one—take some time to get used to old-school pencils and ask for a new pencil at the beginning of every section, just like the scrap paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;focus-on-the-quantitative-reasoning-section&#34;&gt;Focus on the Quantitative Reasoning section.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apparently, the QR section is the most important in CS. Makes sense.&lt;/li&gt;
+&lt;li&gt;The QR section is also pure evil. It is designed to trick you. If you forget to consider negative numbers, you’ll get half the questions wrong. CONSTANT VIGILANCE!&lt;/li&gt;
+&lt;li&gt;The calculator provided to you is one of the basic electronic ones on the computer. No handy dandy scientific calculator for you. This can make calculations very time consuming—time to brush up on basic math!&lt;/li&gt;
+&lt;li&gt;To prepare for the QR section, grab a GRE prep book and do as many practice problems as you can. You can time yourself if you want—the official QR section gives 35 minutes for 20 questions, which averages 1:45 per question. Don’t forget to mimic test conditions, even for practice problems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;yolo-the-verbal-reasoning-section&#34;&gt;YOLO the Verbal Reasoning section.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Truly, I don’t know what to say about this section. I don’t know how to prepare for it. Thankfully, the VR section is less important for CS graduate admissions.&lt;/li&gt;
+&lt;li&gt;Most of the questions will ask you to read a passage and answer some questions about it.&lt;/li&gt;
+&lt;li&gt;The other questions revolve around knowing some intense vocabulary. These vocabulary words are even more intense than SAT vocabulary words, I’m afraid. I don’t recommend spending too much time on GRE vocab—the marginal return is just too low. Go on Quizlet and master a few of those GRE vocab decks and hope for the best.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;write-well-structured-not-well-written-essays-on-the-analytical-writing-section&#34;&gt;Write well-structured, not well-written, essays on the Analytical Writing section.&lt;/h2&gt;
+&lt;p&gt;You will write two essays for the Analytical Writing section: Analyze an Issue and Analyze an Argument. These do not need to be good essays; you don’t need dynamic prose or great transitions or diverse vocabulary. They just need to have a clear, coherent message (avoid long sentences!) and strong structure. You don’t need to dedicate too much time to practicing the essay section. Maybe just go through a couple practice rounds to get used to the format and typing instead of handwriting.&lt;/p&gt;
+&lt;h3 id=&#34;analyze-an-issue&#34;&gt;Analyze an Issue&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the classic persuasive essay. You will be given a prompt (one of mine had something to do with whether fame is beneficial or detrimental for success). You will need to respond with your stance (I said that fame is beneficial when it is handled appropriately but can become detrimental in bad circumstances) and provide examples that support your opinion (I talked about a famous research professor, Shawn Mendes, and the James Charles/Tati feud that my friends kept gossipping about at the time).&lt;/li&gt;
+&lt;li&gt;Note that you don’t actually need to believe in your stance—if one opinion seems easier to write about, then go for it. Don’t get too tangled up in what you truly believe.&lt;/li&gt;
+&lt;li&gt;You also don’t have to have the strongest examples ever. I don’t actually follow the makeup artist scene on social media, and I don’t actually care that much about what happened between James Charles and Tati. This example did, however, immediately pop into my head when I read this prompt, and I didn’t bother wasting time trying to think of a different idea.&lt;/li&gt;
+&lt;li&gt;Make sure to address a counterexample. By talking about the research professor and Shawn Mendes, I was trying to show that fame helps distribute ideas and sell products. Being so famous does come with a cost, which is what I was addressing with the last example.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;analyze-an-argument&#34;&gt;Analyze an Argument&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The idea for this style of essay was knew to me when I was taking the GRE. You’ll be given some sort of “memo.” It will be some sort of announcement from the leader of a company or organization that discusses a situation and proposes some type of action. You need to pick out every piece of the argument and discuss its validity. You might be used to the five-paragraph model of writing an essay—throw that away for this one. This will be more like an introductory paragraph followed by several mini paragraphs and a conclusion.&lt;/li&gt;
+&lt;li&gt;One prompt I saw was a memo from the owner of a video rental store (RIP Blockbuster). He wanted to increase profits so he proposed increasing the number of rom-com and action movies available for rent. The real test will give more details than this, but this is already enough to show you what kinds of ideas the readers are looking for.
+&lt;ol&gt;
+&lt;li&gt;Increasing the number of rom-com and action movies will increase profits only if the renters like these genres. The owner should confirm which genres are the most popular at his store before making a decision.&lt;/li&gt;
+&lt;li&gt;If he buys more movies and no one rents them, these movies will actually become a cost to the store.&lt;/li&gt;
+&lt;li&gt;There are two ways to increase profit: increase revenue or decrease cost (or both). The owner should see if there are any costs he can cut before spending any more money.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Try to find as many reasoning flaws as possible and write a short paragraph about each. Again, the essay does not have to be well-written, just well-structured. Mine was mostly a bulletpoint list without the bulletpoints.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All About Letters of Recommendation</title>
+      <link>https://ahwang16.github.io/post/lor/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/lor/</guid>
+      <description>&lt;p&gt;&lt;em&gt;You’ll need a minimum of three letters of recommendation for PhD programs and four letters for fellowships. Some applications (*cough* Stanford *cough*) give you room for up to six letters. I’ll go over who you should consider asking for recommendations, when you should ask, and how you can prepare packets of important information that will make everyone’s lives much easier.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#who-to-ask&#34;&gt;Who to Ask&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#content-matters&#34;&gt;Content matters.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#position-matters&#34;&gt;Position matters.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#an-overivew-of-my-references-just-in-case-it-helps-you&#34;&gt;An overivew of my references, just in case it helps you.&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#when-to-ask&#34;&gt;When to Ask&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#how-to-prepare&#34;&gt;How to Prepare&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#dont-forget-a-thank-you-note&#34;&gt;Don&amp;rsquo;t forget a thank you note!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&#34;who-to-ask&#34;&gt;Who to Ask&lt;/h2&gt;
+&lt;p&gt;This &lt;a href=&#34;https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guide&lt;/a&gt; to applying to PhD programs in computer science was very helpful when I was applying and has a great section on recommendation letters. Here is a summary of the important parts.&lt;/p&gt;
+&lt;h3 id=&#34;content-matters&#34;&gt;Content matters.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The PhD is a research degree, so you will want someone who can attest to your skills in research. Research advisors are a great source. If you worked directly with a grad student, you can ask the PI to co-write the recommendation letter.&lt;/li&gt;
+&lt;li&gt;Someone who knows you well will be able to write a higher quality than someone who doesn’t. Avoid asking a professor whose class you took just because you got an A. If you have a relationship with that professor beyond just getting a good grade, then feel free to add them to the list. Also consider work supervisors, professors you TAed for, and academic advisors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;position-matters&#34;&gt;Position matters.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Recommendation letters will have the greatest weight when they come from people who have gone through the process and can compare you to others in a similar position. Therefore, research professors have the greatest weight.&lt;/li&gt;
+&lt;li&gt;Next come research scientists, lecturers, systems scientists, employers, and postdocs.&lt;/li&gt;
+&lt;li&gt;Bonus points for professors who are well-known in their field. Professors reading applications are more likely to trust recommendation letters from people they know.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;an-overivew-of-my-references-just-in-case-it-helps-you&#34;&gt;An overivew of my references, just in case it helps you.&lt;/h3&gt;
+&lt;p&gt;Note: it&amp;rsquo;s hard to look for six recommendation letters&amp;ndash;I was already stressed just looking for three, feeling like I didn&amp;rsquo;t know anyone at all. Research advisors, internship supervisors, club advisors, professors who taught you, and mentors are great people to start with when you look for LORs.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Research and undergraduate thesis advisor. Well-known in NLP.&lt;/li&gt;
+&lt;li&gt;Professor I TAed for. Well-known in NLP.&lt;/li&gt;
+&lt;li&gt;Research advisor (for one summer). Professor who specializes in databases and data science.&lt;/li&gt;
+&lt;li&gt;Dean of student life/academic advisor (supplementary)&lt;/li&gt;
+&lt;li&gt;Google intern host from summer before senior year (supplementary)&lt;/li&gt;
+&lt;li&gt;Instructor I TAed for from summer before junior year (supplementary)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;when-to-ask&#34;&gt;When to Ask&lt;/h2&gt;
+&lt;p&gt;You should give your recommenders at least one month to write your letters, but I suggest asking in late August/early September just to be safe. You should also send brief and friendly reminders one month, one week, three days (optional), and one day before the deadline. Alternatively, just ask your recommender if they have a reminder schedule that would help them and go with that.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-prepare&#34;&gt;How to Prepare&lt;/h2&gt;
+&lt;p&gt;People have a lot going on and may not always remember all the details, so you’ll want to prepare a packet of important information to refresh their memories. On top of that, you can use these packets to ask your recommenders to highlight certain pieces of information. Some professors might prefer a paper copy, but I emailed all the files to my recommenders. Here is what should go in the packet.&lt;/p&gt;
+&lt;p&gt;Note: my advice here differs from what is stated in the guide I linked above. These are materials that I provided to my recommenders. The important part is that you provide important information in a concise, easily locatable way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Summary sheet (1-2 pages)&lt;/strong&gt; with your name, summary of key accomplishments that are relevant to that recommender, and programs/fellowships that you need letters for (plus deadlines and instructions for submitting, which is likely to be as simple as clicking a link in an automated email)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV/resume&lt;/strong&gt; You can include either. I chose to include my CV because I was already providing a shortened summary as well.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal statement (optional)&lt;/strong&gt; One of my recommenders asked for my personal statement so I sent a draft. I didn’t send it to the rest simply because it wasn’t finished.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dont-forget-a-thank-you-note&#34;&gt;Don&amp;rsquo;t forget a thank you note!&lt;/h2&gt;
+&lt;p&gt;When application season is over, you have your results, and you have made your decision, don’t forget to send a thank you message to each of your recommendation letter writers. Writing letters is hard work and I’m sure they would be curious about what you end up doing! You don&amp;rsquo;t even have to wait all the way until the spring&amp;ndash;saying thank you more than once doesn&amp;rsquo;t hurt. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your Application Timeline</title>
+      <link>https://ahwang16.github.io/post/app-timeline/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/app-timeline/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Application deadlines are coming up and you don’t know what to do next. Or maybe you don’t know what to do first. Here’s a little timeline to help get yourself organized.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mor Harchol-Balter’s &lt;a href=&#34;https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guide&lt;/a&gt; to “Applying to Ph.D. Programs in Computer Science” is extremely helpful.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview-of-typical-application-deadlines-and-requirements&#34;&gt;Overview of Typical Application Deadlines and Requirements&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#recommended-timeline&#34;&gt;Recommended Timeline&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&#34;overview-of-typical-application-deadlines-and-requirements&#34;&gt;Overview of Typical Application Deadlines and Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fellowships: mid- to late-October
+&lt;ul&gt;
+&lt;li&gt;Recommendation letters are usually due a week after the application deadline, but the deadline is unforgiving.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;You will be automatically disqualified if your recommendation letters are late&lt;/em&gt;, so be sure to send a few reminders to help your writers stay on track.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PhD programs: early to mid-December
+&lt;ul&gt;
+&lt;li&gt;Recommendation letters are due the same day as the application, but the deadline tends to be softer. Most schools will not mind if a recommendation letter is late, but do your best to send reminders so your writers don’t forget.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GRE: scores take 2-3 weeks to be delivered&lt;/li&gt;
+&lt;li&gt;Recommendation letters: make sure to ask at least a month before the deadline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recommended-timeline&#34;&gt;Recommended Timeline&lt;/h2&gt;
+&lt;p&gt;Here is my recommended timeline for applying to PhD programs as an undergraduate senior. If you’re already a real adult out in the world, this timeline may or may not work for you, but I hope it is a good starting point.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;January-September: take the GRE.
+&lt;ul&gt;
+&lt;li&gt;If you&amp;rsquo;re still in school, I recommend taking the GRE the winter, spring, or summer break before you plan to apply.&lt;/li&gt;
+&lt;li&gt;I have heard of people taking the GRE in early September. If you need more time to study and this works for you, go for it. Just keep in mind that September can be a really hectic time for students in general, and it feels really, really nice to have the GRE over with as soon as possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;June-August: prepare to apply.
+&lt;ul&gt;
+&lt;li&gt;Start researching schools, potential advisors, and fellowships.
+&lt;ul&gt;
+&lt;li&gt;Keep a spreadsheet of deadlines, required materials, and anything other important information. Refine your research interests and look for programs with good research fit, not just a good reputation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Start drafting your CV and editing your resumé (if needed).
+&lt;ul&gt;
+&lt;li&gt;A resume is a one-page summary of your most important accomplishments.&lt;/li&gt;
+&lt;li&gt;A CV is a long document with details of all of your accomplishments. You can start by using the headings you already have on your resumé and adding more details.&lt;/li&gt;
+&lt;li&gt;The career center at your school probably has great resources for writing a CV (I like Columbia’s &lt;a href=&#34;https://www.careereducation.columbia.edu/resources/creating-undergraduate-cv#gsc.tab=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undergraduate CV&lt;/a&gt; article and &lt;a href=&#34;https://www.careereducation.columbia.edu/sites/default/files/DYNS%20Single%20Page%20PDF%20Form.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Design Your Next Steps”&lt;/a&gt; guide).&lt;/li&gt;
+&lt;li&gt;You might even consider a phone appointment with a career advisor, if that is available to you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Brainstorm ideas for your personal statement, statement of purpose, research proposal, and other major pieces of writing.
+&lt;ul&gt;
+&lt;li&gt;Everything you apply for will request some combination of these three pieces. Luckily, once you have one solid draft down, you’ll be able to adapt it for everything else.&lt;/li&gt;
+&lt;li&gt;Personal statement: think about why you’re interested in research, why you want to go to graduate school, and what experiences make you a qualified candidate. You can also think about any extenuating circumstances you want to discuss.&lt;/li&gt;
+&lt;li&gt;Statement of purpose: what specific area you want to research, why, and how. This tends to be more general. For PhD apps, this might be combined with the personal statement. For fellowship apps, you will likely write a research proposal instead.&lt;/li&gt;
+&lt;li&gt;Research proposal: very similar to the statement of purpose. Think about research problems/questions, specific methods you’ll use to investigate, and expected results. This tends to be more specific (you might want to add a few citations, but don’t worry about this yet).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optional: start contacting potential advisors.
+&lt;ul&gt;
+&lt;li&gt;Your relationship with your future advisor is one of the most important parts of your grad school experience. Furthermore, professors are more likely to admit students they know. The summer and early fall are great times to reach to professors to discuss their work and the possibility of working in their lab.&lt;/li&gt;
+&lt;li&gt;This &lt;a href=&#34;https://www.cs.virginia.edu/~evans/advice/prospective.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; has some great advice for reaching out to professors. Full disclosure: I sent emails like this to two professors, and neither of them are my advisor. One of my friends sent many emails like this. This is truly up to you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;End of summer/early fall: ask your references for letters of recommendation.
+&lt;ul&gt;
+&lt;li&gt;You will need at least 3 recommendation letters for PhD programs. Fellowships may ask for 4.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“As a general rule of thumb, letters from professors count the most. Next highest are letters from research scientists. After that come letters from lecturers, systems scientists, employers, or postdocs. Please do not get a letter from a graduate student.” -&lt;a href=&#34;https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mor Harchol-Balter, CMU&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;September
+&lt;ul&gt;
+&lt;li&gt;If you haven’t already, ask your references for recommendation letters. Remember that you’ll need at least 3 for PhD programs and 4 for fellowships.&lt;/li&gt;
+&lt;li&gt;Optional: keep in contact/get in touch with any professors you may be interested in working with during grad school.&lt;/li&gt;
+&lt;li&gt;Pro tip: make an appointment with your school’s writing center or career center (or both!) if available. Also consider asking mentors or other grad students for feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;October
+&lt;ul&gt;
+&lt;li&gt;Remind your references that letters for fellowships are due soon. Send followup reminders one week, three days (optional), and one day before the deadline.&lt;/li&gt;
+&lt;li&gt;Start finalizing the list of schools/programs you want to apply to.&lt;/li&gt;
+&lt;li&gt;Fellowship deadlines are coming up! Finalize those essays, fill out the application forms, and submit!&lt;/li&gt;
+&lt;li&gt;If you’re not applying to fellowships, work on having a solid draft of each of the essays you need for PhD apps.&lt;/li&gt;
+&lt;li&gt;Take a little break for all of that application writing. You deserve it, but you’re not quite done yet!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;November
+&lt;ul&gt;
+&lt;li&gt;Disclaimer: I spent most of this month procrastinating because I was super burned out from fellowship apps. If this happens to you, don’t give yourself too hard a time. Applications are rough!&lt;/li&gt;
+&lt;li&gt;If you haven’t already, finalize the list of schools/programs you want to apply to.&lt;/li&gt;
+&lt;li&gt;Adapt your essays to be specific for each school. You might have a general draft that you add one school-specific paragraph to. You might have a different draft for different programs. All your essays might have the same general idea, but you should make sure to tailor your application to each place.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;December
+&lt;ul&gt;
+&lt;li&gt;Remind your references that letters for PhD programs are due soon. Send followup reminders one week, three days (optional), and one day before the deadline.&lt;/li&gt;
+&lt;li&gt;PhD program deadlines are coming up! Finalize those essays, fill out the application forms, and submit! (Also&amp;hellip; study for finals?)&lt;/li&gt;
+&lt;li&gt;~ YOU’RE DONE SUBMITTING APPLICATIONS! Celebrate! Take a nap! Eat an entire pizza! Do something that makes you happy. ~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;January-February
+&lt;ul&gt;
+&lt;li&gt;You might have some later deadlines. Finish those applications up!&lt;/li&gt;
+&lt;li&gt;You might receive some interview requests. Not every school interviews applicants, and not every admitted student goes through an interview. Some interviews are informational while others are evaluative. It really depends on the school. If you need to do an interview for any reason, it will happen around this time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;February/March
+&lt;ul&gt;
+&lt;li&gt;PhD acceptances start trickling in, fingers crossed! I think most acceptances come in late February. I had one come in late January (super early) and other come in early March (super late). I guess the notification is rolling? No one really knows, hold tight!&lt;/li&gt;
+&lt;li&gt;You probably won’t get a rejection until the very end of the admission season, like mid-April. Waiting around feels terrible, but you’ll get through it!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;March
+&lt;ul&gt;
+&lt;li&gt;Accepted student visit days! Woohoo! All of mine were canceled (thanks, Corona). :(&lt;/li&gt;
+&lt;li&gt;Late March: fellowship decisions are announced (fingers crossed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April
+&lt;ul&gt;
+&lt;li&gt;April 15th: deadline to accept enrollment (for most schools).&lt;/li&gt;
+&lt;li&gt;After April 15th: waitlist acceptances start trickling in (fingers crossed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;May??
+&lt;ul&gt;
+&lt;li&gt;You survived application season! Hopefully, you received some good news. If you didn’t, don’t despair too much. You can try again next year, and you’ll be much more knowledgeable about the process the next time around. You might consider a masters program and interning this this summer. You can do it!&lt;/li&gt;
+&lt;li&gt;Please try not to take rejections too personally. Computer science (especially NLP, AI, and ML) is very competitive, and sometimes there are situations way beyond your control. One year at Columbia, I heard that the NLP department accepted ZERO applicants because one professor was on sabbatical and the other was on paternity leave. That was just a very unlucky year for those applicants.&lt;/li&gt;
+&lt;li&gt;~ No matter where you end up, I’m sure that you will do well. Best of luck! ~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Choose a School/Program</title>
+      <link>https://ahwang16.github.io/post/how-to-choose-phd/</link>
+      <pubDate>Sun, 10 Jan 2021 20:59:31 -0500</pubDate>
+      <guid>https://ahwang16.github.io/post/how-to-choose-phd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
