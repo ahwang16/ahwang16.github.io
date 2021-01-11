@@ -38,6 +38,7 @@ social:
   link: https://scholar.google.com/citations?user=5IyLsmcAAAAJ&hl=en
 - icon: seedling
   icon_pack: fas
+  link: fun/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
