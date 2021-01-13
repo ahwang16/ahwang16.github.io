@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>My (Developing) Philosophy for Computer Science Education</title>
-      <link>https://ahwang16.github.io/post/edu-story/</link>
-      <pubDate>Sun, 10 Jan 2021 21:02:29 -0500</pubDate>
-      <guid>https://ahwang16.github.io/post/edu-story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Detour in Software Engineering</title>
-      <link>https://ahwang16.github.io/post/swe-story/</link>
-      <pubDate>Sun, 10 Jan 2021 21:01:24 -0500</pubDate>
-      <guid>https://ahwang16.github.io/post/swe-story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>My Much-Abridged (College) Life Story</title>
       <link>https://ahwang16.github.io/post/life-story/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
@@ -56,6 +40,22 @@
 &lt;p&gt;This whole experience entrenched my commitment to computer science research. I was suddenly exposed to all the parts that slip through the cracks of NLP research. Idioms are one of them—I now assume that my mentor was so excited about my interest in idioms because not many people study them, which leaves the field wide open for me to play around with. I soon became interested in slang and the evolution language on social media—how can we teach machines to understand language as fast as we change it? From there I started learning about non-standard dialects of English, specifically African American (Vernacular) English. As NLP researchers, we love clean, predictable sources of data, but these datapoints don’t reflect all English speakers. We need too include different dialects, slang, and ways of speaking. We make up weird new slang words everyday and don’t have great ways of automatically learning their meanings; this is what I wrote my undergraduate thesis about. I am excited to pursue human-centered research in sociolinguistics and computer science.&lt;/p&gt;
 &lt;p&gt;I am grateful for the opportunities that Columbia has given me and excited for the opportunities that will come my way at UPenn. Throughout my time at Columbia, I have learned several important lessons. First, I need to make the most of every opportunity I am given, and sometimes I have to search them out. Who knows how my life would be different if I hadn’t written that paper? What if I had given up on research the first hundred times I struggled? Second, sometimes, I need to trust my instincts. Some strong feeling drew me to research. Some strong feeling urged me to stay for four school years and two summers (I was a software engineering intern at Google during my third summer, but that deserves a separate story). I didn’t have a clear future goal when I started in freshman year; I didn’t really have a clear future goal when I was applying to grad school either. I realized after I submitted my applications that my PhD would allow me to have high impact as a professor; I nearly burst into tears of appreciation when my thesis advisor casually mentioned that I have a “good personality” for teaching (I love teaching. I TAed for a summer and three semesters. I am already dreaming up a specific philosophy for teaching, but that also deserves a separate story). Third, some of the most important things that separate beginners and experts are knowledge and resources. I hope I can be a source of both.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>My (Developing) Philosophy for Computer Science Education</title>
+      <link>https://ahwang16.github.io/post/edu-story/</link>
+      <pubDate>Sun, 10 Jan 2021 21:02:29 -0500</pubDate>
+      <guid>https://ahwang16.github.io/post/edu-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Detour in Software Engineering</title>
+      <link>https://ahwang16.github.io/post/swe-story/</link>
+      <pubDate>Sun, 10 Jan 2021 21:01:24 -0500</pubDate>
+      <guid>https://ahwang16.github.io/post/swe-story/</guid>
+      <description></description>
     </item>
     
   </channel>
