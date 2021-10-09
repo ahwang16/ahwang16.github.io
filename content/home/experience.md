@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant
+    company: CIS 530 Computational Linguistics at University of Pennsylvania
+    company_url: ''
+    location: Philadelphia, PA
+    date_start: '2021-08-31'
+    date_end: '2021-12-17'
+    description: Host weekly office hours, grade assignments, and mentor group research projects for 80 undergraduate and graduate students.
+
+  - title: Software Engineering Intern
+    company: Google
+    company_url: ''
+    location: Pittsburgh, PA
+    date_start: '2021-05-27'
+    date_end: '2021-08-20'
+    description: Design clustering and ranking algorithm to display top user-submitted review images for Shopping; analyze image data and propose signal thresholds to identify low-quality images.
+
   - title: Software Engineering Intern
     company: Google
     company_url: ''

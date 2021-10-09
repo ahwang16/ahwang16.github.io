@@ -14,7 +14,7 @@ organizations:
   url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania. I am particularly interested in the intersections of Natural Language Processing, Linguistics, and Psychology, especially expanding NLU resources for nonstandard English. I am supported by the NSF Graduate Research Fellowship Program. I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an undergraduate thesis with Prof. Kathleen McKeown.
+bio: 
 
 # Interests to show in About widget
 interests: []
@@ -43,8 +43,21 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania. I am particularly interested in the intersections of Natural Language Processing, Linguistics, and Psychology, especially expanding NLU resources for nonstandard English. I am supported by the NSF Graduate Research Fellowship Program. 
+I am a PhD student in the Department of Computer and Information Science (CIS) 
+at the University of Pennsylvania, where I work with Professors [Chris
+Callison-Burch](https://www.cis.upenn.edu/~ccb/) and
+[Andrew Head](https://andrewhead.info/) on the intersection of Natural Language
+Processing and Human-Computer Information. More specifically, I am interested in
+NLP and HCI perspectives on answering subjective questions and the ethical
+implications of virtual assistants that _can_ give this sort of advice.
 
-I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an undergraduate thesis with Prof. Kathleen McKeown.
+Beyond research, I am involved in the
+[CIS Doctoral Association](https://www.seas.upenn.edu/~cisga/)
+(formerly CIS Graduate Association), [CIS Applicant-Support Program](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/), and [Diversity and Equity Initiative
+in the Mind Sciences](https://web.sas.upenn.edu/dive/) (mind DivE In).
+
+I am supported by the NSF Graduate Research Fellowship Program. I earned my BS in
+Computer Science at Columbia University, where I conducted research and wrote an
+undergraduate thesis with [Professor Kathleen McKeown](http://www.cs.columbia.edu/~kathy/).
 
 alyssahwang at seas dot upenn dot edu
