@@ -47,7 +47,7 @@ I am a PhD student in the Department of Computer and Information Science (CIS)
 at the University of Pennsylvania, where I work with Professors [Chris
 Callison-Burch](https://www.cis.upenn.edu/~ccb/) and
 [Andrew Head](https://andrewhead.info/) on the intersection of Natural Language
-Processing and Human-Computer Information. More specifically, I am interested in
+Processing and Human-Computer Interaction. More specifically, I am interested in
 NLP and HCI perspectives on answering subjective questions and the ethical
 implications of virtual assistants that _can_ give this sort of advice.
 
