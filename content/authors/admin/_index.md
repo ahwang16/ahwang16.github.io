@@ -43,7 +43,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in the Department of Computer and Information Science (CIS) 
+I am a second-year PhD student in the Department of Computer and Information Science (CIS) 
 at the University of Pennsylvania, where I work with Professors [Chris
 Callison-Burch](https://www.cis.upenn.edu/~ccb/) and
 [Andrew Head](https://andrewhead.info/) on the intersection of Natural Language
