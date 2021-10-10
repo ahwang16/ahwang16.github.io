@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My (Developing) Philosophy for Computer Science Education"
+title: "Overview of the Application Process"
 subtitle: ""
-summary: "In my future classroom, there will be no such thing as cheating. My current thoughts, how I came to this belief, and where I hope to go from there. COMING SOON."
+summary: "An overview of the different parts of the PhD application, including what fellowships are and why you should apply for them."
 authors: []
-tags: ["me"]
+tags: ["dive"]
 categories: []
-date: 2021-01-10T21:02:29-05:00
-lastmod: 2021-01-10T21:02:29-05:00
+date: 2021-10-09
+lastmod: 2021-01-10T20:29:57-05:00
 featured: false
-draft: true # toggle this to remove or display
+draft: false
+weight: 10
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -26,4 +27,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTl08Mnu3viHIXigEuiAyMkqYlKHOdPmmVengrrbX6f-Y07MiLT4bkzXq2Vw_N-x3GdWlRA03U8EVie/embed?start=false&loop=false&delayms=3000" >}}

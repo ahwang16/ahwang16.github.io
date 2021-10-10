@@ -56,8 +56,8 @@ Beyond research, I am involved in the
 (formerly CIS Graduate Association), [CIS Applicant-Support Program](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/), and [Diversity and Equity Initiative
 in the Mind Sciences](https://web.sas.upenn.edu/dive/) (mind DivE In).
 
-I am supported by the NSF Graduate Research Fellowship Program. I earned my BS in
-Computer Science at Columbia University, where I conducted research and wrote an
+I am supported by the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/).
+I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an
 undergraduate thesis with [Professor Kathleen McKeown](http://www.cs.columbia.edu/~kathy/).
 
 alyssahwang at seas dot upenn dot edu

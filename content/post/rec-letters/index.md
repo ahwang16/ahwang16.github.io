@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My (Developing) Philosophy for Computer Science Education"
+title: "Strategizing Your Recommendation Letters"
 subtitle: ""
-summary: "In my future classroom, there will be no such thing as cheating. My current thoughts, how I came to this belief, and where I hope to go from there. COMING SOON."
+summary: "Did you know that you can help your letter writers write your letters?"
 authors: []
-tags: ["me"]
+tags: ["dive"]
 categories: []
-date: 2021-01-10T21:02:29-05:00
-lastmod: 2021-01-10T21:02:29-05:00
+date: 2021-10-09
+lastmod: 2021-01-10T19:50:00-05:00
 featured: false
-draft: true # toggle this to remove or display
+draft: false
+weight: 20
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,3 +28,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vT_7nS_OGkjMCxc-53pSwxXO8dxI17pNf5VJFJ2mW6rDGCCQwQwWalFNZ7oNwRaLkUoDIOso3QS8L2-/embed?start=false&loop=false&delayms=3000" >}}

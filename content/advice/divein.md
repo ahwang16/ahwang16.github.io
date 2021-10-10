@@ -1,11 +1,10 @@
 ---
 widget: portfolio
 headless: true  # This file represents a page section.
-weight: 20
+weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
-title: PhD Programs and Fellowships
-subtitle: "\n"
+title: DivE In 2021
 
 content:
   # Page type to display. E.g. project.
@@ -20,12 +19,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
   filter_button:
-    - name: All
-      tag: "pf"
-    - name: PhD Programs
-      tag: "phd"
-    - name: Fellowships
-      tag: "fellowship"
+    - tag: "dive"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -38,3 +32,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+DivE In Weekend is the University of Pennsylvania's diversity welcome weekend for
+the mind sciences. I was very excited to be head of the Programming Development
+Committee for our very first DivE In on October 8-10, 2021. Check out our
+[website](https://web.sas.upenn.edu/dive/), [event recordings and resources](https://web.sas.upenn.edu/dive/event-resources/), and [Twitter](https://twitter.com/minddivein)! Recordings and slides
+from my workshops are below.
