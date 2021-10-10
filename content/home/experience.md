@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: CIS 530 Computational Linguistics at University of Pennsylvania
-    company_url: ''
+    company_url: 'https://www.cis.upenn.edu/~myatskar/teaching/cis530_fa21/'
     location: Philadelphia, PA
     date_start: '2021-08-31'
     date_end: '2021-12-17'
