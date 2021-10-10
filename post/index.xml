@@ -5,7 +5,7 @@
     <link>https://ahwang16.github.io/post/</link>
       <atom:link href="https://ahwang16.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Post</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 21:02:29 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ahwang16.github.io/images/icon_hu7a7bc96f9e25a98bf679c02f3b215d22_9659_512x512_fill_lanczos_center_2.png</url>
       <title>Post</title>
@@ -142,6 +142,28 @@ You were rejected from the school’s PhD program but accepted to the masters pr
 &lt;p&gt;I asked my parents a million times if I should submit to this workshop. They said a million and one times: yes, go for it, you should. In truth, I wanted them to say no. I wanted them to give me an excuse to not bother because it’s impos to fail if you don’t even try. The imposter syndrome/fixed mindset/pessimism/anxiety I thought I had gotten over started to creep back in. Just do it, my parents urged me. Fine. It’s time to jump at all the opportunities I have in front of me. I locked myself in my room. I taped papers to the wall. I went absolutely crazy. I wrote an entire workshop short paper in 36 hours. I was accepted. I would be presenting my work in Florence, Italy. &lt;strong&gt;O mio dio&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This whole experience entrenched my commitment to computer science research. I was suddenly exposed to all the parts that slip through the cracks of NLP research. Idioms are one of them—I now assume that my mentor was so excited about my interest in idioms because not many people study them, which leaves the field wide open for me to play around with. I soon became interested in slang and the evolution language on social media—how can we teach machines to understand language as fast as we change it? From there I started learning about non-standard dialects of English, specifically African American (Vernacular) English. As NLP researchers, we love clean, predictable sources of data, but these datapoints don’t reflect all English speakers. We need too include different dialects, slang, and ways of speaking. We make up weird new slang words everyday and don’t have great ways of automatically learning their meanings; this is what I wrote my undergraduate thesis about. I am excited to pursue human-centered research in sociolinguistics and computer science.&lt;/p&gt;
 &lt;p&gt;I am grateful for the opportunities that Columbia has given me and excited for the opportunities that will come my way at UPenn. Throughout my time at Columbia, I have learned several important lessons. First, I need to make the most of every opportunity I am given, and sometimes I have to search them out. Who knows how my life would be different if I hadn’t written that paper? What if I had given up on research the first hundred times I struggled? Second, sometimes, I need to trust my instincts. Some strong feeling drew me to research. Some strong feeling urged me to stay for four school years and two summers (I was a software engineering intern at Google during my third summer, but that deserves a separate story). I didn’t have a clear future goal when I started in freshman year; I didn’t really have a clear future goal when I was applying to grad school either. I realized after I submitted my applications that my PhD would allow me to have high impact as a professor; I nearly burst into tears of appreciation when my thesis advisor casually mentioned that I have a “good personality” for teaching (I love teaching. I TAed for a summer and three semesters. I am already dreaming up a specific philosophy for teaching, but that also deserves a separate story). Third, some of the most important things that separate beginners and experts are knowledge and resources. I hope I can be a source of both.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of the Application Process</title>
+      <link>https://ahwang16.github.io/post/dive-app-overview/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/dive-app-overview/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTl08Mnu3viHIXigEuiAyMkqYlKHOdPmmVengrrbX6f-Y07MiLT4bkzXq2Vw_N-x3GdWlRA03U8EVie/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategizing Your Recommendation Letters</title>
+      <link>https://ahwang16.github.io/post/rec-letters/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ahwang16.github.io/post/rec-letters/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vT_7nS_OGkjMCxc-53pSwxXO8dxI17pNf5VJFJ2mW6rDGCCQwQwWalFNZ7oNwRaLkUoDIOso3QS8L2-/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -542,14 +564,6 @@ You were rejected from the school’s PhD program but accepted to the masters pr
       <link>https://ahwang16.github.io/post/how-to-choose-phd/</link>
       <pubDate>Sun, 10 Jan 2021 20:59:31 -0500</pubDate>
       <guid>https://ahwang16.github.io/post/how-to-choose-phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My (Developing) Philosophy for Computer Science Education</title>
-      <link>https://ahwang16.github.io/post/edu-story/</link>
-      <pubDate>Sun, 10 Jan 2021 21:02:29 -0500</pubDate>
-      <guid>https://ahwang16.github.io/post/edu-story/</guid>
       <description></description>
     </item>
     
