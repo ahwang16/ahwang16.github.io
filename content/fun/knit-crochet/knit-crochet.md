@@ -32,5 +32,14 @@ gallery_item:
 - album: knit-crochet-images
   image: octopus.jpg
   caption: Ollie the Octopus (top left) was my high school senior mascot, so of course I crocheted some mini octokids (Princess is pink, Cotton Candy is blue, and Beelzebub is purple). The rainbow guy in the back is Kumquatz (I made him in middle school).
+
+- album: knit-crochet-images
+  image: PennNLP_blanket.JPG
+  preview_only: false
+  caption: I didn't have enough school merch, so I made my own. Bella is not impressed. The PennNLP blanket is hanging behind my desk at school! (I don't know why the thumbnail is upside-down, whoopdidoo.)
+
+- album: knit-crochet-images
+  image: washu_blanket.JPG
+  caption: A WashU blanket for my brother (not pictured). This blanket was made with the C2C (corner to corner) technique and took several months!
 ---
 {{< gallery album="knit-crochet-images" >}}
