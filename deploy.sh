@@ -2,10 +2,12 @@
 
 git add .
 git commit -m "begin deployment"
-git push
+git push -u origin master
 hugo
 cd public
 git add .
 git commit -m "deploy"
+git pull
+git pull
 git push
 cd ..

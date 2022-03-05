@@ -35,5 +35,5 @@ design:
 DivE In Weekend is the University of Pennsylvania's diversity welcome weekend for
 the mind sciences. I was very excited to be head of the Programming Development
 Committee for our very first DivE In on October 8-10, 2021. Check out our
-[website](https://web.sas.upenn.edu/dive/), [event recordings and resources](https://web.sas.upenn.edu/dive/event-resources/), and [Twitter](https://twitter.com/minddivein)! Recordings and slides
+[website](https://web.sas.upenn.edu/dive/), [event recordings and resources](https://web.sas.upenn.edu/dive/event-resources/), and [Twitter](https://twitter.com/minddivein)! Slides
 from my workshops are below.

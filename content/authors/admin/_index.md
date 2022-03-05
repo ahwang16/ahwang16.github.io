@@ -47,9 +47,7 @@ I am a second-year PhD student in the Department of Computer and Information Sci
 at the University of Pennsylvania, where I work with Professors [Chris
 Callison-Burch](https://www.cis.upenn.edu/~ccb/) and
 [Andrew Head](https://andrewhead.info/) on the intersection of Natural Language
-Processing and Human-Computer Interaction. More specifically, I am interested in
-NLP and HCI perspectives on answering subjective questions and the ethical
-implications of virtual assistants that _can_ give this sort of advice.
+Processing and Human-Computer Interaction. I am specifically interested in language and interaction aspects of voice agents, such as how virtual assistants like Amazon Alexa can give better audio instructions, answer subjective questions, and support complex tasks without visual assistance.
 
 Beyond research, I am involved in the
 [CIS Doctoral Association](https://www.seas.upenn.edu/~cisga/)
@@ -57,7 +55,7 @@ Beyond research, I am involved in the
 in the Mind Sciences](https://web.sas.upenn.edu/dive/) (mind DivE In).
 
 I am supported by the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/).
-I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an
+I received my BS in Computer Science from Columbia University, where I conducted research and wrote an
 undergraduate thesis with [Professor Kathleen McKeown](http://www.cs.columbia.edu/~kathy/).
 
 alyssahwang at seas dot upenn dot edu
