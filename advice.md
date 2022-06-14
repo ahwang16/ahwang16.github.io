@@ -49,6 +49,18 @@ title: Advice
 </div>
 
 <div>
+    <h1 style="text-align: center">Succeeding as a CS Researcher</h1>
+    {% for post in site.posts %}
+        {% if post.path contains 'research' %}
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>Posted: {{ post.date | date: "%b %d, %Y" }} | Modified: {{ post.modified | date: "%b %d, %Y" }}</p>
+            <p>{{ post.summary }}</p>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<div>
     <h1 style="text-align: center">DivE In 2021</h1>
     <p>DivE In Weekend is the University of Pennsylvania’s diversity welcome weekend for the mind sciences. I was very excited to be head of the Programming Development Committee for our very first DivE In on October 8-10, 2021. Check out our <a href="https://web.sas.upenn.edu/dive/">website</a>, <a href="https://web.sas.upenn.edu/dive/event-resources/">event recordings and resources</a>, and <a href="https://web.sas.upenn.edu/dive/">Twitter</a>! Recordings and slides from my workshops are below.</p>
 
