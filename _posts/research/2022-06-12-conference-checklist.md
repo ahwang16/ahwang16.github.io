@@ -5,13 +5,11 @@ summary: >
 layout:  post
 modified: 2022-06-14
 ---
-I have been to two big computer science research conferences so far (ACL 2019 
-in Florence and CHI 2022 in New Orleans), and they can be quite overwhelming! 
-These conferences tend to be huge and last several days in a new city (or even 
-country). Here are my tips for preparing for your first conference.
+*I have been to two big computer science research conferences so far (ACL 2019 in Florence and CHI 2022 in New Orleans), and they can be quite overwhelming!  These conferences tend to be huge and last several days in a new city (or even country). Here are my tips for preparing for your first conference.*
 
-By the way, if you are reading this because you are attending your first conference, 
-congratulations! I hope you have a great time.
+*By the way, if you are reading this because you are attending your first conference, congratulations! I hope you have a great time.*
+
+---
 
 Table of Contents
 - toc
