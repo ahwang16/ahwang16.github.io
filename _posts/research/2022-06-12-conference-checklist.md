@@ -19,7 +19,7 @@ Table of Contents
 You'll need to arrange *travel, lodging, conference registration, and meals*. Typically, 
 since this conference is essential for your training as a PhD student (and contributes 
 to university business if you're publishing or presenting a paper), your advisor will
-cover the previously mentioned costs.
+cover the previously mentioned costs. Do be sure to double check!
 
 ***Travel tip:*** You don't necessarily need to go straight to the conference and back! 
 Some people choose to stay a few extra days before or after the conference to explore 
@@ -34,7 +34,7 @@ If this is prohibitive to you, you can try asking for an advance
 or looking for travel grants outside the department. Some universities offer general 
 conference travel assistance you can apply for and some conferences offer free registration 
 in exchange for volunteer work at the conference. Finding a roommate for the hotel or visiting a local grocery 
-store instead of eating takeout can also help lighten the financial load.
+store instead of eating out can also help lighten the financial load.
 
 Some expenses can be paid for directly by the department. In my particular case, 
 I was able to have the department pay directly for flights and conference registration, 
@@ -45,7 +45,8 @@ a couple thousand dollars.
 Universities typically post their reimbursement policies 
 somewhere online (and different schools within a university may have different rules). 
 Look these up and pay attention to limits on meals---this is most likely the place 
-where you might accidentally overspend and not get fully reimbursed.
+where you might accidentally overspend and not get fully reimbursed. By the way, 
+you probably won't be reimbursed for alcohol if you buy a drink with your meal.
 
 ***Reimbursement tip:*** Ask your advisor---before you pay for anything---what can or 
 cannot be reimbursed.
@@ -69,10 +70,11 @@ Unless the conference happens to be very close to you, you will probably need to
 fly to your conference, which also means you need to transport yourself to and 
 from the airport. When I traveled this year, I booked a flight through my department's 
 travel agency and didn't pay out of pocket---but I was able to collect rewards points on 
-my frequent flier number because the agent asked for it! It's the little things, right?
+my frequent flier number because the agent asked for it! It's the little things, right? 
+I requested reimbursement for taxis to and from the airport.
 
 ***Travel tip:*** Keep your frequent flier numbers and rewards cards handy whenever you 
-travel. You can collect rewards points even if you're not paying for it. I emailed all 
+travel. You can collect rewards points even if you're not paying for them. I emailed all 
 my numbers to myself and starred the message so it's always at the top of my inbox.
 
 ***Travel tip:*** Taxis to and from the airport and conference center count as conference-related 
@@ -89,18 +91,18 @@ cost. Hotels won't charge you until after you check out, and hopefully your
 reimbursement request will be processed and paid quickly after your submit it.
 
 ***Lodging tip:*** Book your hotel as fast as possible. The hotels close to the 
-conference venue tend to sell out fast!
+conference venue tend to sell out fast.
 
 ### Conference Registration
 Conference registration should also be pretty simple, but some conferences offer 
 different packages, which can be confusing. Big computer science conferences tend 
 to have the main conference, which lasts several days, and workshops, which are 
-one- or two-day events before or after the main conferences. You might hear of a 
+one- or two-day events before or after the main conference. You might hear of a 
 workshop being "co-located" with a conference. That means that that workshop and 
-conference are happening at the same time, so you can attend that workshop if you 
+conference are happening at the same place, so you can attend that workshop if you 
 attend that conference. Some conferences also offer courses, tutorials, demos, or 
 other special sessions. Workshops and these special sessions may or may not be 
-included with registration for the main conference---consult the webiste or someone 
+included with registration for the main conference---consult the website or someone 
 who has attended that conference before if you need help figuring out what to 
 register for (which may affect when you book your hotel and schedule your flights for).
 
@@ -116,7 +118,7 @@ computer, and asked an officer to pay with the university credit card.
 ### Meals
 You'll probably eat a lot of takeout or restaurant meals. Pay out of pocket and keep 
 an itemized receipt. Make sure you're aware of any spending limits---in my department, 
-the spending limit for breakfast and lunch is small than for dinner, and alcohol is not 
+the spending limit for breakfast and lunch is less than for dinner, and alcohol is not 
 reimbursed. There's a way to work around a lost receipt, but do try your best to keep 
 a record.
 
@@ -126,7 +128,8 @@ so I could tell all of you! Before you take anything *out* of your closet, howev
 you should think about putting extra food *in* your pantry. The last conference I 
 went to was hit with a COVID surge. Even if you test negative when you come back, 
 you should isolate for at least five days because some people have reported testing 
-negative for a few days before getting sick. Stocking your pantry before the trip 
+negative for a few days before getting sick and you are considered contagious starting 
+two days before symtoms appear. Stocking your pantry before the trip 
 will make your life after it a little easier.
 
 Some items in my list of clothes are listed as "2 __ for every 3 days"---this 
@@ -135,14 +138,7 @@ for more than two days in a row and would have liked to alternate more, but you
 do you. You can also totally repeat outfits. I just like having a fresh shirt or 
 dress every day.
 
-I figured that more concrete information would be more helpful than 
-something vague like "conference clothes for x days" so I tried to be more specific, 
-but I also recognize that not everyone dresses like me! I would describe my style 
-as "low-maintenance femme dressy casual," "tech boy," or even "Steve Jobs with a couple 
-more colors" (on any given day, you are likely to find me wearing blue, black, or 
-olive green pants with a solid-colored shirt, and I absolutely have worn the same 
-outfit as one of the guys in the office by accident several times). Feel free to 
-switch out my particular clothing options for ones that you prefer.
+Onwards to my personal list of conference must-haves!
 
 ### Attire
 - 2 pairs of shoes for every 3 days
@@ -154,33 +150,31 @@ switch out my particular clothing options for ones that you prefer.
         I don't like getting in bed with my "outside clothes" on. This might 
         be an unpopular opinion, haha!
 - Maybe a couple dresses or skirts if the weather is supposed to be hot
-- Socks, undergarments, and whatnot
+- Socks, undergarments, accessories, whatever
 - 1 set of pajamas for every week
 - "A bunch" of casual clothes to wear during off hours
 - A variety of short- and long-sleeved pants and shirts! Weather, air conditioning, 
-    and central heat can be unpredictable!
-- 1 set of "airplane clothes" (completely optional)
+    and central heat can be unpredictable.
+- 1 set of "airplane clothes"
 - Toiletries, medication, other personal items
     - You may want to buy travel-sized soap at a local convenience store if 
-        you don't like the amenities the hotel provides.
+    you don't like the amenities the hotel provides.
     - I always buy travel-sized contact lens solution at the airport or destination 
-        just in case it gets confiscated at security (plus I'm just busy).
+    just in case it gets confiscated at security (plus I'm just busy).
     - Get yourself a [hanging toiletry bag](https://www.llbean.com/llb/shop/73889?page=personal-organizer-toiletry-bag-small&bc=&feat=hanging%20toiletry%20bag-SR0&csp=a&searchTerm=hanging%20toiletry%20bag&pos=1){:target="_blank"}!! 
-    It's the best thing ever. I have two---I prefer the medium, but I use the small when 
+    It's the best thing ever. I have two---I generally prefer the medium, but I use the small when 
     I'm only packing a carry-on.
 - 1 pair of hotel slippers, because hotel floors are kinda icky
 - DON'T FORGET YOUR (SUN)GLASSES! (and extra contact lenses, if applicable)
 
 ### What to bring to the conference
-- Bag
-    - I recently bought a fancy new backpack and I'm very excited about it. I tend to dress up a bit for conferences, including my backpack, but I've seen people use a regular backpack, purse, tote bag, whatever. Do what works for you!
-    - Luxury on a budget? Try outlet malls for great deals on designer merchandise.
-- If you suffer from uncomfortable-shoe-itis (AKA blisters), prevent it with **skin tape**! You can get a roll for pretty cheap at any pharmacy, and they stay on better than bandaids.
-- Snacks, water
-- Laptop (optional)
+- Laptop, charger (optional)
 - Phone charger/extra battery
 - Mints or gum
 - Pen and notebook
+- Try using **skin tape** instead of bandaids to prevent blisters.
+    - I'll update this post with a specific recommendation once I find a brand I really like!
+- Snacks, water
 - If you're presenting
     - [Presentation remote](https://www.amazon.com/dp/B07K1Y7B57?ref_=cm_sw_r_cp_ud_dp_1HWVT0F5V6RBF2GE52YA){:target="_blank"}
     - Backup PDF of presentation on a flash drive
@@ -226,15 +220,13 @@ of us who are immunocompromised. We need to protect ourselves *and* our communit
 
 - Mask up at the airport, on the plane, and at the conference.
 - Do a rapid test every day and isolate if you test positive.
-    - Event organizers, if you're reading this, you should require your attendees to test before being admitted!
 - Err on the side of caution and isolate if you feel at all sick---my symptoms started with a mild scratchy throat and I thought I was just losing my voice from a week of nonstop talking!
 - Avoid crowded venues (this may, unfortunately, include the previously mentioned networking parties).
 - Prepare to isolate and test for at least five days when you come home.
     - Some people test negative for a few days before getting sick, even on PCR tests!
     - You may want to stock up on food *before* you leave for the conference, just in case you get sick right after.
 - Create a backup plan if you get "stuck" at the conference, especially if you are traveling out of the country.
-    - Will you continue staying at the hotel? How will you eat or get medicine? *Who will pay for it?* Advisors, if you're 
-    reading this, your transparency, proactivity, and support would be much appreciated!
-- If you can, avoid scheduling any important work or events within two to three weeks of coming back. You may need time to recover from COVID, and [long COVID](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank"} is a real thing. Hopefully, this will end up not being necessary and you can just have a relaxing few weeks. :)
+    - Will you continue staying at the hotel? How will you eat or get medicine? *Who will pay for it?* 
+- If you can, avoid scheduling any important work or events within two to three weeks of coming back. You may need time to recover from COVID or any lingering symptoms ([long COVID](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html){:target="_blank"}). Hopefully, this will end up not being necessary and you can just have a relaxing few weeks. :)
 
 Have fun, be safe, and learn a lot!
