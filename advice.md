@@ -10,15 +10,22 @@ title: Advice
    get to where I am now. I figured I would write my experiences down along the
    way, in hopes that it make someone else's academic journey easier some day.</p>
 
-<p><b>How to use my advice</b>: Good advice should be specific to the person 
-   receiving it, but it's hard to personalize what you're going to read when I 
-   can't get to know you first! Instead of making lists of recommendations 
-   (which I still include from time to time), I've opted for telling stories. 
-   When evaluating if what I did makes sense for you, you should first check if 
-   our goals and values align and extrapolate from there. I also love talking 
-   to undergrads, prospective PhD students, and pretty much everyone, so feel 
-   free to send me an email (located at the bottom of the page) if you'd ever 
-   like to chat.</p>
+<p><b>How to use my advice</b>: At my first internship, right before I applied 
+for PhD programs, I went around asking different full-time employees with PhDs 
+if they would recommend going to a PhD program. Shockingly, most of them said 
+no, it's not useful, and I should avoid it if I can. One panic later, I 
+realized that I was speaking with the wrong audience: these were software 
+engineers, many of whom don't work in research or at least don't aim to publish 
+every year. Some of them were from other countries and pursued a PhD to help 
+with immigration. Our goals and situations were too different for me to 
+directly apply this advice, but I did learn a lot about career planning in 
+general.</p>
+
+<p>In this spirit, I try to avoid making universal declarations because I know 
+what works for me won't work for everyone because we're all different. I also 
+try to be explicit about my thoughts and experiences so you can understand why 
+something works for me, not just what works for me. Then you can extrapolate to 
+fit your own thoughts and experiences. Or just ignore me. 😅</p>
 
 <p>Happy reading!</p>
 

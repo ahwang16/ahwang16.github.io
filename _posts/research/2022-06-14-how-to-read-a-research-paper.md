@@ -4,7 +4,7 @@ summary: >
     Literature review? Just starting out? I have a few tips on how to read a research 
     paper more effectively.
 layout:  post
-modified: 2022-06-14
+modified: 2022-07-10
 ---
 Reading a research paper isn't the same as reading a story, a newspaper 
 article, or even a textbook. Research papers tend to be dense, filled with 
