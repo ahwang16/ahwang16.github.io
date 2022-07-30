@@ -8,7 +8,9 @@ modified: 2022-07-10
 ---
 If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to *finally* refactor your code.
 
-Table of Contents
+This file uses a lot of examples related to using machine learning models, but it hopefully it will be useful for anyone with intermediate experience in Python!
+
+**Table of Contents**
 - toc
 {:toc}
 
