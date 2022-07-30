@@ -66,6 +66,10 @@ if __name__ == "__main__":
 
 It's tedious, vulnerable to off-by-one errors, hard to keep track of what goes where, and doesn't support optional arguments that easily. Use `argparse` instead!
 
+To install `argparse`:
+
+```pip install argparse```
+
 With `argparse`, you can handle a variety of command line arguments, like
 
 ```
@@ -74,11 +78,158 @@ $ python3 --model_name gpt2 --learning_rate 1.0e-5
 $ python3 --learning_rate 1.0e-5 --model_name gpt2
 ```
 
-and so on.
+and so on. It looks something like this:
+
+```
+import argparse
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser("Description of file here.")
+    parser.add_argument(
+        "model_name",  # variable names without the -- prefix are required
+        default="gpt2",  # default value
+        type=str,
+        help="Name of the model to load."
+    )
+    parser.add_argument(
+        "--learning_rate",  # optional argument
+        type=float
+    )
+    parser.add_argument(
+        "--num_train_epochs",
+        type=int
+    )
+    args = parser.parse_args()
+
+    ...
+
+    run_experiment(
+        model_name=args.model_name,
+        learning_rate=args.learning_rate,
+        epochs=args.num_train_epochs,
+        ...
+    )
+```
+
+ArgParse also supports lists as input values for parameters with the `extend` action:
+
+```
+$ run_experiment --num_train_epochs 1 10 100 500
+```
+
+```
+import argparse
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--num_train_epochs",
+        action="extend",
+        type=int
+    )
+    args = parser.parse_args()
+
+    ...
+
+    args.num_train_epochs == [1, 10, 100, 500]
+```
+
+**Important note about booleans**: ArgParse doesn't handle booleans they way you might expect or want. For example, running the command
+
+```
+$ run_experiment.py --save_model False
+```
+
+with the ArgParse set up like
+
+```
+import argparse
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--save_model",
+        type=bool
+    )
+    args = parser.parse_args()
+```
+
+will not give you
+
+```
+$ args.save_model == False  # in this case, args.save_model is actually True!
+```
+
+This is because, under the hood, `argparse` is applying the `type()` function that you specify to the value it receives. In this case, it applies `bool()`. A command line argument is initially parsed as a string. Only empty strings (`""`) and `None` are defined to be `False`. Every other string, including the string `"False"`, is defined to be `True`.
+
+```
+$ bool("True") == True
+$ bool("0") == True
+$ bool("False") == True
+$ bool("I like potato chips") == True
+$ bool("") == False
+$ bool(None) == False
+```
+
+For completeness, I should also mention that the *integer* `0` is defined to be `False` and every other `int` is `True`.
+```
+$ bool("0") == True
+$ bool(0) == False
+
+$ bool("1") == True
+$ bool(1) == True
+$ bool(6789998212) == True
+```
+
+The *canonical* way to deal with this would be to do something like
+
+```
+$ run_experiment.py --save-model
+$ run_experiment.py --no-save-model
+```
+
+```
+import argparse
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--save_model",
+        action=argparse.BooleanOptionalAction
+    )
+    args.parse_args()
+```
+
+
+but if you're stubborn like me you could do something hacky like
+
+```
+import argparse
+
+if __name__ == "main":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--save_model",
+        type=str
+    )
+    args.parse_args()
+
+    ...
+
+    if args.save_model == "true":
+        do_stuff()
+    else:
+        do_other_stuff()
+```
 
 
 ### Use a config `yaml` to write, save, and reuse many command line arguments.
 Imagine this: you are trying to run a file with a bunch of command line arguments, you can't remember what half of them are named, and you're tired of retyping a bunch of letters just to change one argument. If this sounds annoyingly familiar, try using a `yaml` file to handle your command line arguments instead.
+
+First, install `pyyaml`:
+```
+pip install pyyaml
+```
 
 `YAML` stands for Yet Another Markup Language, and it's an easy way to store key-value pairs in a plaintext file. If you're trying to run a model, you might have a `config.yaml` like this:
 
@@ -99,7 +250,7 @@ import argparse
 import yaml
 
 if __name__ == __main__:
-    parser = ArgParse("Train a model to answer questions.")
+    parser = argparse.ArgumentParser("Train a model to answer questions.")
     parser.add_argument("config")
     args = parser.parse_args()
 
@@ -126,6 +277,41 @@ $ config["train_params"]  # { "learning_rate": 0.00001, "num_train_epochs": 100 
 $ config["train_params"]["num_train_epochs"]  # 100
 ```
 
+### Combine `argparse` and `yaml` config files for ultimate flexibility.
+This is redundant, but once I had YAML config files set up I got tired of needing to open, edit, and save files just to change one or two command line arguments, so I started doing this:
+
+```
+import argparse
+import yaml
+
+def update_config(args, yaml_config):
+    if args.learning_rate:  # if args.learning_rate is not None
+        yaml_config["learning_rate"] = args.learning_rate
+
+    return yaml_config
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "yaml_config_path",
+        help="Required path to YAML config file."
+    )
+    parser.add_argument(
+        "--learning_rate",
+        type=float,
+        default=None,
+        help="If no learning rate is given, then args.learning_rate is None."
+    )
+    args = parser.parse_args()
+
+    with open(args.yaml_config_path, "r") as infile:
+        yaml_config = yaml.full_load(infile)
+
+    yaml_config = update_config(yaml_config)
+```
+
+Right now, I pretty much hardcode my `update_confgs()` file whenever I have a parameter I want to be able to update from the command line. It's a bit tedious, but if you set it up once it works forever.
 ### Stop writing individual function parameters when you could `**params` instead.
 `YAML` and dictionaries are great for another time-saving function: unwrapping function arguments. In our previous example, instead of doing something like
 
