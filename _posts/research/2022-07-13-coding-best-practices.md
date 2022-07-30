@@ -9,7 +9,8 @@ modified: 2022-07-10
 If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to *finally* refactor your code.
 
 Table of Contents
-- {:toc}
+- toc
+{:toc}
 
 ## Check out some of my favorite resources.
 - VSCode with at least these plugins...
@@ -42,10 +43,10 @@ Python notebooks, especially Colab notebooks, are great for interactive tutorial
 ### Whatever you do, avoid floating code in notebooks!
 I know that it's super easy and tempting to treat each cell in a notebook as a mini main method and write standalone for loops, variables, and whatever else you want, but avoid this as much as you can! First of all, floating variables can cause a mess somewhere else in your notebook, especially if you use the same variable name (gasp) for different code chunks. Perhaps more importantly, floating code is much harder to refactor into a `py` file later on. If you find yourself running the same chunk of code over and over again, do your future self a favor and refactor it into its own function.
 
-## Invest more effort in `py` files for less effort in running them later.
+## Invest more effort in py files for less effort in running them later.
 Using `py` files kind of frustrates me from time to time because I find them more difficult to make quick changes on the fly. They are, however, much better for stable code---and you can't run a notebook from the command line or import a module from a notebook to another file. If you are writing code, you are writing software, and a big research project requires a few software engineering skills (sorry, researchers!).
 
-### Use `argparse` to process command line arguments.
+### Use argparse to process command line arguments.
 Traditional, no-frills command line arguments in Python work like this:
 
 First, you pass in *all* of the arguments, *in order*, without argument names.
@@ -67,13 +68,13 @@ if __name__ == "__main__":
     num_train_epochs = int(args[3])  # 200
 ```
 
-It's tedious, vulnerable to off-by-one errors, hard to keep track of what goes where, and doesn't support optional arguments that easily. Use `argparse` instead!
+It's tedious, vulnerable to off-by-one errors, hard to keep track of what goes where, and doesn't support optional arguments that easily. Use ArgParse instead!
 
-To install `argparse`:
+To install ArgParse:
 
 ```pip install argparse```
 
-With `argparse`, you can handle a variety of command line arguments, like
+With ArgParse, you can handle a variety of command line arguments, like
 
 ```
 $ python3 --model_name gpt2
@@ -226,7 +227,7 @@ if __name__ == "main":
 ```
 
 
-### Use a config `yaml` to write, save, and reuse many command line arguments.
+### Use a config yaml to write, save, and reuse many command line arguments.
 Imagine this: you are trying to run a file with a bunch of command line arguments, you can't remember what half of them are named, and you're tired of retyping a bunch of letters just to change one argument. If this sounds annoyingly familiar, try using a `yaml` file to handle your command line arguments instead.
 
 First, install `pyyaml`:
@@ -280,7 +281,7 @@ $ config["train_params"]  # { "learning_rate": 0.00001, "num_train_epochs": 100 
 $ config["train_params"]["num_train_epochs"]  # 100
 ```
 
-### Combine `argparse` and `yaml` config files for ultimate flexibility.
+### Combine argparse and yaml config files for ultimate flexibility.
 This is redundant, but once I had YAML config files set up I got tired of needing to open, edit, and save files just to change one or two command line arguments, so I started doing this:
 
 ```
@@ -316,7 +317,7 @@ if __name__ == "__main__":
 
 Right now, I pretty much hardcode my `update_confgs()` file whenever I have a parameter I want to be able to update from the command line. It's a bit tedious, but if you set it up once it works forever.
 
-### Stop writing individual function parameters when you could `**params` instead.
+### Stop writing individual function parameters when you could unwrap a dictionary instead.
 `YAML` and dictionaries are great for another time-saving function: unwrapping function arguments. In our previous example, instead of doing something like
 
 ```
