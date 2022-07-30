@@ -8,6 +8,9 @@ modified: 2022-07-10
 ---
 If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to *finally* refactor your code.
 
+Table of Contents
+- {:toc}
+
 ## Check out some of my favorite resources.
 - VSCode with at least these plugins...
     - Jupyter: run Jupyter notebooks from inside VSCode. No more `jupyter notebook --no-browser ...`
@@ -312,6 +315,7 @@ if __name__ == "__main__":
 ```
 
 Right now, I pretty much hardcode my `update_confgs()` file whenever I have a parameter I want to be able to update from the command line. It's a bit tedious, but if you set it up once it works forever.
+
 ### Stop writing individual function parameters when you could `**params` instead.
 `YAML` and dictionaries are great for another time-saving function: unwrapping function arguments. In our previous example, instead of doing something like
 
@@ -333,3 +337,114 @@ You could do something like this programmatically too, like
 train_params = get_train_params()  # returns dictionary
 train_model(**train_params)
 ```
+
+## Use Python classes instead of global variables.
+Frequently using global variables in a `py` file is a sign that you should refactor your code into using a Python `class`. [Global variables are considered bad in any programming language](https://stackoverflow.com/questions/19158339/why-are-global-variables-evil){:target="_blank"}, and I think they are especially annoying in Python because you need to use the keyword `global` every time you want to use a global variable:
+
+```
+index = 0
+
+def increase_index():
+    global index
+    index += 1
+
+
+def decrease_index():
+    global index
+    index -= 1
+
+
+def get_index():
+    global index
+    return index
+```
+
+It's a silly example, but you can see that accessing a global variable requires double the lines of code. Instead of relying on global variables, you should consider refactoring your code into a class with instance variables, like this:
+
+```
+class Index():
+    def __init__(self):
+        self.index = 0
+
+    def increase_index(self):
+        self.index += 1
+
+
+    def decrease_index(self):
+        self.index -= 1
+
+
+    def get_index(self):
+        return self.index
+```
+
+```
+>>> i = Index()
+>>> i.increase_index()  # 1
+>>> i.decrease_index()  # 0
+>>> i.get_index()  # 0
+```
+
+Python classes aren't really necessary if you have safe coding practices and a simple use case, but they're very helpful for wrapper classes and more complex functionality.
+
+Compare this sample file with global variables
+
+```
+data = []
+output = []
+
+def load_data(path):
+    with open(path, "r") as infile:
+        for line in infile:
+            global data
+            data.append(line)
+
+
+def train_model(model):
+    global data
+    model.train(data)
+
+
+def generate_sentence(model_input, model):
+    model_output = model.generate(model_input)
+    global output
+    output.append(model_output)
+```
+
+to this sample file wrapped in a class
+
+```
+class MyModel():
+    def __init__(self):
+        self.data = []
+        self.output = []
+
+
+    def load_data(self, path):
+        with open(path, "r") as infile:
+            for line in infile:
+                self.data.append(line)
+    
+
+    def train_model(model):
+        model.train(self.data)
+
+
+    def generate_sentence(model_input, model):
+        model_output = model.generate(model_input):
+        self.output.append(model_output)
+```
+
+It would be even better if you included `model` as an instance variable of `MyModel` along with functions for instantiating it. Either way, wrapping the `load_data()`, `train_model()`, and `generate_sentence()` functions in a class makes it easier to import them to other files.
+
+```
+from MyModelFile import load_data, train_model, generate_sentence
+```
+
+vs. 
+
+```
+from MyModelFile import MyModel
+```
+
+Hooray for encapsulation!
