@@ -69,7 +69,7 @@ fit your own thoughts and experiences. Or just ignore me. 😅</p>
 </div>
 <div>
     <h1 style="text-align: center">DivE In 2021</h1>
-    <p>DivE In Weekend is the University of Pennsylvania’s diversity welcome weekend for the mind sciences. I was very excited to be head of the Programming Development Committee for our very first DivE In on October 8-10, 2021. Check out our <a href="https://web.sas.upenn.edu/dive/">website</a>, <a href="https://web.sas.upenn.edu/dive/event-resources/">event recordings and resources</a>, and <a href="https://web.sas.upenn.edu/dive/">Twitter</a>! Recordings and slides from my workshops are below.</p>
+    <p>DivE In Weekend is the University of Pennsylvania’s diversity welcome weekend for the mind sciences. I was very excited to be head of the Programming Development Committee for our very first DivE In on October 8-10, 2021. I have since stepped down as a committee leader but I am happy to return every year to present a workshop. Check out our <a href="https://web.sas.upenn.edu/dive/">website</a>, <a href="https://web.sas.upenn.edu/dive/event-resources/">event recordings and resources</a>, and <a href="https://web.sas.upenn.edu/dive/">Twitter</a>! Slides and recordings (when available) from my workshops are below.</p>
 
    {% for post in site.posts %}
         {% if post.path contains 'dive_in' %}
