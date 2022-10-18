@@ -1,32 +1,37 @@
 ---
 title: Python Coding Best Practices for CS Researchers
 summary: >
-    Stop hard-coding your main method and changing it every time you want to 
-    run something!
-layout:  post
+  Stop hard-coding your main method and changing it every time you want to 
+  run something!
+layout: post
 modified: 2022-07-10
 ---
-If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to *finally* refactor your code.
+
+If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to _finally_ refactor your code.
 
 This file uses a lot of examples related to using machine learning models, but it hopefully it will be useful for anyone with intermediate experience in Python!
 
 **Table of Contents**
+
 - toc
-{:toc}
+  {:toc}
 
 ## Check out some of my favorite resources.
+
 - VSCode with at least these plugins...
-    - Jupyter: run Jupyter notebooks from inside VSCode. No more `jupyter notebook --no-browser ...`
-    - Remote SSH: use VSCode on a remote server
-    - Vim: keybindings
+  - Jupyter: run Jupyter notebooks from inside VSCode. No more `jupyter notebook --no-browser ...`
+  - Remote SSH: use VSCode on a remote server
+  - Vim: keybindings
 - Google Colab
-    - Easy access to cloud computing (including GPUs, in a limited but still useful form), lots of built-in packages, convenient load and save functionality with Google Drive, collaboration.
+  - Easy access to cloud computing (including GPUs, in a limited but still useful form), lots of built-in packages, convenient load and save functionality with Google Drive, collaboration.
 - Online Python environments, for when you want to know what a teeny bit of code would do but don't want to open a whole new file to test it.
 
 ## Use notebooks with care.
+
 This is definitely a personal preference, so go ahead and ignore this one if you already have a system you like. If you, like me, find yourself waffling from notebooks to `py` files and back again, here are some tips to stay organized.
 
 ### Use notebooks for quick experimentation.
+
 I like to use notebooks when I'm trying a new library, looking at sample output, or rapidly refactoring code as I go. I like that you can run individual cells within a notebook instead of having to fiddle with the main method, comment stuff out, or open the Terminal in another window.
 
 The more complex your code becomes, however, the dangerous the flexibility of a notebook can be. You should switch to using a `py` file when you find yourself frequently running the same cells, with unchanged code, especially if you keep running the same cells out of order. You could also clean up some code into a single cell that contains stable functions or drop the code into a `utils.py` file that you import into the notebook. (More on utils files later.)
@@ -34,6 +39,7 @@ The more complex your code becomes, however, the dangerous the flexibility of a 
 You probably could work on your entire research project from a single notebook (I did used one notebook and a couple `py` files for an entire internship). It just becomes a little hard to deal with after a while!
 
 ### Alternatively, use (Colab) notebooks for long-term tutorials.
+
 Python notebooks, especially Colab notebooks, are great for interactive tutorials. Some of my favorite tutorials have the following features...
 
 - Consistent use of Markdown cells with headers, essential information, and other details throughout the document.
@@ -43,20 +49,25 @@ Python notebooks, especially Colab notebooks, are great for interactive tutorial
 - Output! Show me something once in a while! I love when a cell teaches me what to do (like train a model) and then shows me what's going on (like a graph, progress bar, or even "training complete!" message).
 
 ### Whatever you do, avoid floating code in notebooks!
+
 I know that it's super easy and tempting to treat each cell in a notebook as a mini main method and write standalone for loops, variables, and whatever else you want, but avoid this as much as you can! First of all, floating variables can cause a mess somewhere else in your notebook, especially if you use the same variable name (gasp) for different code chunks. Perhaps more importantly, floating code is much harder to refactor into a `py` file later on. If you find yourself running the same chunk of code over and over again, do your future self a favor and refactor it into its own function.
 
 ## Invest more effort in py files for less effort in running them later.
+
 Using `py` files kind of frustrates me from time to time because I find them more difficult to make quick changes on the fly. They are, however, much better for stable code---and you can't run a notebook from the command line or import a module from a notebook to another file. If you are writing code, you are writing software, and a big research project requires a few software engineering skills (sorry, researchers!).
 
 ### Use argparse to process command line arguments.
+
 Traditional, no-frills command line arguments in Python work like this:
 
-First, you pass in *all* of the arguments, *in order*, without argument names.
+First, you pass in _all_ of the arguments, _in order_, without argument names.
+
 ```
 $ python3 run_experiment.py gpt2 1.0e-5 200
 ```
 
 Then, you parse the arguments and cast them to their appropriate type (I'm pretty sure all command line arguments are parsed as strings).
+
 ```
 import sys
 
@@ -70,13 +81,9 @@ if __name__ == "__main__":
     num_train_epochs = int(args[3])  # 200
 ```
 
-It's tedious, vulnerable to off-by-one errors, hard to keep track of what goes where, and doesn't support optional arguments that easily. Use ArgParse instead!
+It's tedious, vulnerable to off-by-one errors, hard to keep track of what goes where, and doesn't support optional arguments that easily. Use argparse, which is a built-in module, instead!
 
-To install ArgParse:
-
-```pip install argparse```
-
-With ArgParse, you can handle a variety of command line arguments, like
+With argparse, you can handle a variety of command line arguments, like
 
 ```
 $ python3 --model_name gpt2
@@ -117,7 +124,7 @@ if __name__ == "__main__":
     )
 ```
 
-ArgParse also supports lists as input values for parameters with the `extend` action:
+argparse also supports lists as input values for parameters with the `extend` action:
 
 ```
 $ run_experiment --num_train_epochs 1 10 100 500
@@ -140,13 +147,13 @@ if __name__ == "__main__":
     args.num_train_epochs == [1, 10, 100, 500]
 ```
 
-**Important note about booleans**: ArgParse doesn't handle booleans they way you might expect or want. For example, running the command
+**Important note about booleans**: argparse doesn't handle booleans they way you might expect or want. For example, running the command
 
 ```
 $ run_experiment.py --save_model False
 ```
 
-with the ArgParse set up like
+with the argparse set up like
 
 ```
 import argparse
@@ -177,7 +184,8 @@ $ bool("") == False
 $ bool(None) == False
 ```
 
-For completeness, I should also mention that the *integer* `0` is defined to be `False` and every other `int` is `True`.
+For completeness, I should also mention that the _integer_ `0` is defined to be `False` and every other `int` is `True`.
+
 ```
 $ bool("0") == True
 $ bool(0) == False
@@ -187,7 +195,7 @@ $ bool(1) == True
 $ bool(6789998212) == True
 ```
 
-The *canonical* way to deal with this would be to do something like
+The _canonical_ way to deal with this would be to do something like
 
 ```
 $ run_experiment.py --save-model
@@ -205,7 +213,6 @@ if __name__ == "__main__":
     )
     args.parse_args()
 ```
-
 
 but if you're stubborn like me you could do something hacky like
 
@@ -228,11 +235,12 @@ if __name__ == "main":
         do_other_stuff()
 ```
 
-
 ### Use a config yaml to write, save, and reuse many command line arguments.
+
 Imagine this: you are trying to run a file with a bunch of command line arguments, you can't remember what half of them are named, and you're tired of retyping a bunch of letters just to change one argument. If this sounds annoyingly familiar, try using a `yaml` file to handle your command line arguments instead.
 
 First, install `pyyaml`:
+
 ```
 pip install pyyaml
 ```
@@ -246,11 +254,13 @@ pip install pyyaml
 ```
 
 You would pass it to your file as a single command line argument like this:
+
 ```
 $ python3 run_experiment.py config.yaml
 ```
 
 You can then parse it in your `py` file like this:
+
 ```
 import argparse
 import yaml
@@ -284,6 +294,7 @@ $ config["train_params"]["num_train_epochs"]  # 100
 ```
 
 ### Combine argparse and yaml config files for ultimate flexibility.
+
 This is redundant, but once I had YAML config files set up I got tired of needing to open, edit, and save files just to change one or two command line arguments, so I started doing this:
 
 ```
@@ -320,6 +331,7 @@ if __name__ == "__main__":
 Right now, I pretty much hardcode my `update_confgs()` file whenever I have a parameter I want to be able to update from the command line. It's a bit tedious, but if you set it up once it works forever.
 
 ### Stop writing individual function parameters when you could unwrap a dictionary instead.
+
 `YAML` and dictionaries are great for another time-saving function: unwrapping function arguments. In our previous example, instead of doing something like
 
 ```
@@ -342,7 +354,8 @@ train_model(**train_params)
 ```
 
 ## Use Python classes instead of global variables.
-Frequently using global variables in a `py` file is a sign that you should refactor your code into using a Python `class`. [Global variables are considered bad in any programming language](https://stackoverflow.com/questions/19158339/why-are-global-variables-evil){:target="_blank"}, and I think they are especially annoying in Python because you need to use the keyword `global` every time you want to use a global variable:
+
+Frequently using global variables in a `py` file is a sign that you should refactor your code into using a Python `class`. [Global variables are considered bad in any programming language](https://stackoverflow.com/questions/19158339/why-are-global-variables-evil){:target="\_blank"}, and I think they are especially annoying in Python because you need to use the keyword `global` every time you want to use a global variable:
 
 ```
 index = 0
@@ -427,7 +440,7 @@ class MyModel():
         with open(path, "r") as infile:
             for line in infile:
                 self.data.append(line)
-    
+
 
     def train_model(model):
         model.train(self.data)
@@ -444,10 +457,11 @@ It would be even better if you included `model` as an instance variable of `MyMo
 from MyModelFile import load_data, train_model, generate_sentence
 ```
 
-vs. 
+vs.
 
 ```
 from MyModelFile import MyModel
 ```
 
 Hooray for encapsulation!
+

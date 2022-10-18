@@ -8,6 +8,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   of voice assistants and voice user interfaces.
 show_excerpts: false # set to true to show excerpts on the homepage
 
+exclude: ["flake.lock", "flake.nix", "gemset.nix"]
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
