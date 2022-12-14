@@ -8,7 +8,7 @@ layout: home
             alt="Headshot of Alyssa Hwang">
     </div>
     <h2><a href="/fun">Alyssa Hwang</a></h2>
-    <p>PhD Student</p>
+    <p>PhD Student (Started Fall 2020)</p>
     <a href="https://www.cis.upenn.edu/">Computer and Information Science</a>
     <a href="https://www.upenn.edu/">University of Pennsylvania</a>
     <div>
