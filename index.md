@@ -21,7 +21,7 @@ layout: home
 <h1>Welcome!</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
-    <p>I am a third-year PhD student in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I work with Professors <a href="https://www.andrewhead.info">Andrew Head</a> and <a href="https://www.cis.upenn.edu/~ccb/">Chris Callison-Burch</a> on the intersection of Human-Computer Interaction and Natural Language Processing. <b>I am specifically interested in language and interaction aspects of voice agents</b>, such as how virtual assistants like Amazon Alexa can give better audio instructions, answer subjective questions, and support complex tasks without visual assistance.</p>
+    <p>I am a third-year PhD student in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I work with Professors <a href="https://www.andrewhead.info">Andrew Head</a> and <a href="https://www.cis.upenn.edu/~ccb/">Chris Callison-Burch</a> on the intersection of Human-Computer Interaction and Natural Language Processing. <b>I am particularly interested in designig and training interfaces that help us interact with complex information, such as smart assistants, large language models, and explainable AI.</b></p>
 
     <p>Beyond research, I am a chair of the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a> and the founder of our department's Mentorship Program. I also care a lot about outreach programs, like the <a href="https://web.sas.upenn.edu/dive/">Diversity and Equity Initiative in the Mind Sciences</a> (mind DivE In).</p>
 
