@@ -21,11 +21,11 @@ layout: home
 <h1>Welcome!</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
-    <p>I am a second-year PhD student in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I work with Professors <a href="https://www.andrewhead.info">Andrew Head</a> and <a href="https://www.cis.upenn.edu/~ccb/">Chris Callison-Burch</a> on the intersection of Human-Computer Interaction and Natural Language Processing. <b>I am specifically interested in language and interaction aspects of voice agents</b>, such as how virtual assistants like Amazon Alexa can give better audio instructions, answer subjective questions, and support complex tasks without visual assistance.</p>
+    <p>I am a third-year PhD student in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I work with Professors <a href="https://www.andrewhead.info">Andrew Head</a> and <a href="https://www.cis.upenn.edu/~ccb/">Chris Callison-Burch</a> on the intersection of Human-Computer Interaction and Natural Language Processing. <b>I am specifically interested in language and interaction aspects of voice agents</b>, such as how virtual assistants like Amazon Alexa can give better audio instructions, answer subjective questions, and support complex tasks without visual assistance.</p>
 
-    <p>Beyond research, I am involved in the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a>, CIS Applicant-Support Program, and <a href="https://web.sas.upenn.edu/dive/">Diversity and Equity Initiative in the Mind Sciences</a> (mind DivE In).</p>
+    <p>Beyond research, I am a chair of the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a> and the founder of our department's Mentorship Program. I also care a lot about outreach programs, like the <a href="https://web.sas.upenn.edu/dive/">Diversity and Equity Initiative in the Mind Sciences</a> (mind DivE In).</p>
 
     <p>I am supported by the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>. I received my BS in Computer Science from Columbia University, where I conducted research and wrote an undergraduate thesis with Professor <a href="http://www.cs.columbia.edu/~kathy/">Kathleen McKeown</a>.</p>
 
-    <p>alyssahwang at seas dot upenn dot edu</p>
+    <p>ahwang16 at seas dot upenn dot edu</p>
 </div>
