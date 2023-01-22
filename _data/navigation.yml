@@ -1,0 +1,8 @@
+# Sample site navigation bar links
+main:
+  - title: Home
+    url: /
+  - title: CV
+    url: assets/files/Alyssa_Hwang_CV.pdf
+  - title: Advice
+    url: /advice/
