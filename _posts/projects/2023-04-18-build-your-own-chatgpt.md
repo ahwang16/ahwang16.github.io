@@ -6,7 +6,8 @@ layout:  post
 modified: 2023-04-19
 thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
 ---
-# Video Coming Soon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+
 
 # Resources
 - [Chatbot Codebase](https://github.com/ahwang16/gpt3-chatbot)
@@ -26,6 +27,7 @@ thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
     journal = {Alyssa Hwang},
     month = apr,
     title = {{Build Your Own ChatGPT}},
+    url = {https://alyssahwang.com/2023/04/18/build-your-own-chatgpt.html},
     year = {2023}
 }
 ```
