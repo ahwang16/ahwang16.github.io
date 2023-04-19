@@ -21,6 +21,7 @@ thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
 # Report Coming Soon
 
 # Suggested Citation
+{% raw %}
 ```
 @article{Hwang_Build_Your_Own_2023,
     author = {Hwang, Alyssa},
@@ -31,3 +32,4 @@ thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
     year = {2023}
 }
 ```
+{% endraw %}
