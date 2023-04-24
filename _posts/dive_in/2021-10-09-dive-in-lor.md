@@ -8,7 +8,7 @@ summary: Did you know that you can help your letter writers write your letters? 
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-    <iframe width="960" height="569" src="https://www.youtube.com/embed/RiiIE7-ZYt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="960" height="569" src="https://www.youtube.com/embed/RiiIE7-ZYt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
 </div>
 
 <div class="responsive-wrap">

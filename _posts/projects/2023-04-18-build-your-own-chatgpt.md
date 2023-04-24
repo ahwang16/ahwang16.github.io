@@ -6,7 +6,12 @@ layout:  post
 modified: 2023-04-19
 thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+</div>
 
 
 # Resources
