@@ -1,16 +1,16 @@
 ---
 title: Build Your Own ChatGPT
 summary: >
-    I wrote this tutorial for my PhD candidacy exam. Check out my slides, code, and presentation recording here! The full report will be released when it is finished.
+    Tutorial on implementing and critiquing a chatbot powered by large language models, written for my PhD candidacy exam.
 layout:  post
 modified: 2023-04-19
 thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
 ---
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
 <div class="responsive-wrap">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
 </div>
 
 

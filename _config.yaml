@@ -1,11 +1,11 @@
 title: Alyssa Hwang
 author:
   name: Alyssa Hwang
-  email: alyssahwang@seas.upenn.edu
+  email: ahwang16@seas.upenn.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   Alyssa Hwang is a PhD student at the University of Pennsylvania advised by
-  Andrew Head and Chris Callison-Burch. She studies interaction and language aspects
-  of voice assistants and voice user interfaces.
+  Andrew Head and Chris Callison-Burch. She develops AI interfaces that
+  effectively deliver complex information.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
