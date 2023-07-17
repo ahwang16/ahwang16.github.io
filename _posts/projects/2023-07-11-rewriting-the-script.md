@@ -18,8 +18,8 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 
 <div markdown="1">
 # Resources
-- [Presentation Keynote (Reduced size, zipped)](assets/files/project_resources/Rewriting%the%Script%DIS%2023%Final%Compressed.key.zip)
-- [Presentation PDF](assets/files/project_resources/Rewriting%the%Script%DIS%2023%Final.pdf)
+- [Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
+- [Presentation PDF](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf)
 
 # Suggested Citation
 {% raw %}
