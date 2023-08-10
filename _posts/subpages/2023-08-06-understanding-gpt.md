@@ -13,7 +13,11 @@ modified: 2023-08-08
 
 | [&lt; Back to Build Your Own ChatGPT Main Page]({% post_url /projects/2023-04-18-build-your-own-chatgpt %}) | [Next to Part 2: Implementing Our Chatbot &gt;]({% post_url /subpages/2023-08-06-implementing-our-chatbot %}) |
 
-# GPT-3: The Brain of Our Chatbot
+## Table of Contents
+- toc
+{:toc}
+
+## GPT-3: The Brain of Our Chatbot
 GPT-3, the third in a series of Generative Pre-trained Transformers, is the artificial brain of our chatbot (Brown et al., 2020). It is one of the most powerful language models for a wide range of tasks and can produce stunning outputs like (**human input in bold**, GPT-3 output in plain)
 
 > **What's a limerick?**
@@ -54,7 +58,7 @@ but it is not perfect! Recent research has explored biases and flaws in GPT-3 ou
 
 Even when GPT-3 is correct---deciding to walk to work does indeed depend on "many factors such as distance, weather, and terrain"---it is not always useful. How annoying would it be if your favorite voice assistant essentially answered "maybe" to everything? While some of these shortcomings can be mitigated with advanced fine-tuning, pre-training, and reinforcement learning methods (Ouyang et al., 2022), the task of evaluating the complex text that these new generative models are able to produce is still an open question in NLP research.
 
-# How to Use GPT-3
+## How to Use GPT-3
 GPT-3 works by taking some text as input---called a *prompt*---and generating some text as output---called a *completion*. We can carefully design the prompt to generate a completion that suits our needs. This is typically called prompting or prompt engineering in Machine Learning and Natural Language Processing literature and prompt programming in Human-Computer Interaction literature (Liu et al., 2021; Yang et al., 2022; Liu and Chilton, 2022; Reynolds and McDonell, 2021).
 
 Prompt engineering often incorporates examples of the task in the context window. Influencing a model in this fashion is called “in-context learning,” which allows us to train a model without updating the model weights. We often do this in one- or few-shot settings, where the number of "shots" represents the number of examples in the prompt (Brown et al., 2020). Another popular form of prompt engineering is called zero-shot learning, where no examples are provided at all, just a natural-language instruction. Beyond the number of examples, prompt engineering can incorporate methods for writing the natural-language instruction, choosing the examples, or putting them in a good order. Today, we will focus on zero-, one-, and few-shot learning.
