@@ -22,11 +22,11 @@ modified: 2023-08-08
 
 | [&lt; Back to Part 1: Understanding GPT-3]({% post_url /subpages/2023-08-06-understanding-gpt %}) | [Next to Part 3: Critiquing Our Design &gt;]({% post_url /subpages/2023-08-08-critiquing-our-design %}) |
 
-# Table of Contents
+## Table of Contents
 - toc
 {:toc}
 
-# Code Snippets
+## Code Snippets
 [`index()`](#index())  
 [`chat()`](#chat())  
 [`generate_prompt()`](#generate_prompt())  
@@ -34,7 +34,7 @@ modified: 2023-08-08
 [`index.html`](#index.html)  
 [`getResponse()`](#getResponse())
 
-# Program at a Glance
+## Program at a Glance
 
 <figure>
     <img src="/assets/images/build_your_own_chatgpt/side-by-side.png" alt="Two screenshots of our chatbot, with the home page on the left and the chatbot interface page on the right.">
@@ -43,7 +43,7 @@ modified: 2023-08-08
 
 Our chatbot is a web app with two pages: the home page and the chatbot interface page. When the user first loads the chatbot, they will be asked for the persona, OpenAI model, and temperature they want to use on the home page. After clicking the "Go!" button, they will be redirected to the chatbot interface page, where they can chat with their GPT-3 persona. Under the hood, we will be prompting the selected OpenAI model with the personal through the API. On the screen, the user will see their messages as chat bubbles, similar to modern text messaging platforms. They can even start over by clicking the "New Chatbot" button. After setting up our programming environment, we will walk through how to set up the backend and then build a visual interface on top of it.
 
-# Environment Assumptions
+## Environment Assumptions
 For this tutorial, you will need to have [Python 3](https://www.google.com/url?q=https://www.python.org/downloads/&sa=D&source=editors&ust=1691389483846171&usg=AOvVaw3_H-BtjNdLDixi6SVfwjDb){:target="_blank"}, [Flask](https://www.google.com/url?q=https://flask.palletsprojects.com/en/2.2.x/&sa=D&source=editors&ust=1691389483846510&usg=AOvVaw2b_HaB0PPAbz0G7JiWr5lY){:target="_blank"}, and the [OpenAI API](https://www.google.com/url?q=https://beta.openai.com/overview&sa=D&source=editors&ust=1691389483846693&usg=AOvVaw1RyF6nYjioh4GIIyn1qOFg){:target="_blank"} installed on your computer, as well as a general-purpose IDE or text editor to write code in. You will also need an OpenAI account and credits to pay for running inference on or fine-tuning a model. You should store your OpenAI API key in a file called `.env`. Similar to the included `.env_example`. Fine-tuning Curie for this tutorial cost about $40.
 
 # Backend: Defining Data Flow with Python
@@ -330,7 +330,7 @@ def get_bot_response():
 
 And that is the entire backend! Now that we've set up our endpoints and the paths between them, we can define what they look like and how they behave.
 
-# Frontend: Building Visuals with HTML, CSS, and JavaScript
+## Frontend: Building Visuals with HTML, CSS, and JavaScript
 
 Our Python backend defines how information flows throughout the web app. HTML, CSS, and JavaScript define the visual elements of all that information on the screen. You can think of HTML as a blueprint: it sets up a hierarchical structure of where elements show up on the screen, but the elements may not look exactly how you want. CSS fixes that by allowing you to define how an element looks—also called its "presentation"---like color, position on the screen, or size. JavaScript allows you to define the behavior of these visual elements, like creating new elements, moving them around, or changing their CSS presentation. Altogether, HTML, CSS, and JavaScript define the frontend of the chatbot, the visible part of what the user interacts with.
 
@@ -352,7 +352,7 @@ Each web page is defined in its own HTML template, which is typically a file wit
 </head>
 {% endhighlight html %}
 
-## Home Page
+### Home Page
 Let's start with the home page, which lives in `index.html` and is served by the `index()` Python function. This is what it looks like before applying CSS formatting.
 
 <figure>
@@ -487,7 +487,7 @@ Lastly, we wrap all of these inputs, including the button, with a `<form>` eleme
 </body>
 {% endhighlight html %}
 
-## Chatbot Interface Page
+### Chatbot Interface Page
 The chatbot interface page lives in `chatbot.html` and is served by the `chat()` Python function. It uses several of the same elements as index.html, like `<h1>`, `<p>`, `<form>`, and `<input>`, so we will skip those. Let's take a closer look at the chatbot interface page before CSS formatting.
 
 <figure>
