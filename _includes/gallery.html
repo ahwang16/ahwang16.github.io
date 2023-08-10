@@ -32,7 +32,7 @@
         {% if gallery.id == include.id %}
             {% for image in gallery.images %}
                 <div class="box">
-                    <img src="{{ gallery.image_folder }}/{{ image.name }}" title="{{ image.title }}" alt="{{ image.caption }}" class="img-gallery" />
+                    <img src="{{ gallery.image_folder }}/{{ image.name }}" title="{{ image.title }}" alt="{{ image.alt }}" class="img-gallery" />
                 </div>
             {% endfor %}
         {% endif %}
