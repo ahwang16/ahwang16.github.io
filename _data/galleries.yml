@@ -8,7 +8,7 @@
   - name: christmas.jpeg
     caption: I wanted an ugly Christmas sweater but couldn't find the perfect one, so I designed and knitting an ugly Christmas scarf instead.
   - name: columbia_scarf.jpeg
-    caption: An obnoxious double-sided scarf to celebrate graduating from Columbia Engineering, complate with my signature, SEAS crown logo, and "COMPUTER SCIENCE" in gold beads.
+    caption: An obnoxious double-sided scarf to celebrate graduating from Columbia Engineering, complate with my signature, SEAS crown logo, and &quot;COMPUTER SCIENCE&quot; in gold beads.
   - name: mini_grad.jpeg
     caption: My research mentor and I didn't get an in-person graduation thanks to Coronavirus, so I crocheted us mini graduation gowns (left is doctoral, right is bachelors) for our pens to wear.
   - name: octopus.jpeg
@@ -17,3 +17,5 @@
     caption: I didn't have enough school merch, so I made my own. Bella is not impressed. The PennNLP blanket is hanging behind my desk at school!
   - name: washu_blanket.jpeg
     caption: A WashU blanket for my brother. This blanket was made with the C2C (corner to corner) technique and took several months!
+  - name: grandma_sweater.jpeg
+    caption: A Fisherman's rib sweater for my grandma's birthday!
