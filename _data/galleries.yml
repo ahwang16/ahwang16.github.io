@@ -2,20 +2,29 @@
   image_folder: /assets/images/fun
   images:
   - name: animal_crossing.jpeg
+    title: Animal Crossing Bell Bags
     caption: Inspired by a Reddit post and my friends' love for Animal Crossing, three money pouches customized with their favorite colors.
   - name: blanket.jpeg
+    title: Cable Knit Lap Blanket
     caption: A lap blanket for my dad's birthday made by sewing together several strips of knitted Celtic cables (it is only half-done in this photo, oops!).
   - name: christmas.jpeg
+    title: Ugly Chrismas Scarf
     caption: I wanted an ugly Christmas sweater but couldn't find the perfect one, so I designed and knitting an ugly Christmas scarf instead.
   - name: columbia_scarf.jpeg
+    title: Columbia University Graduation Scarf
     caption: An obnoxious double-sided scarf to celebrate graduating from Columbia Engineering, complate with my signature, SEAS crown logo, and &quot;COMPUTER SCIENCE&quot; in gold beads.
   - name: mini_grad.jpeg
+    title: Columbia University Mini Graduation Regalia
     caption: My research mentor and I didn't get an in-person graduation thanks to Coronavirus, so I crocheted us mini graduation gowns (left is doctoral, right is bachelors) for our pens to wear.
   - name: octopus.jpeg
+    title: Crocheted Octopi
     caption: Ollie the Octopus (top left) was my high school senior mascot, so of course I crocheted some mini octokids (Princess is pink, Cotton Candy is blue, and Beelzebub is purple). The rainbow guy in the back is Kumquatz (I made him in middle school).
   - name: PennNLP_blanket.jpeg
+    title: Penn NLP Blanket
     caption: I didn't have enough school merch, so I made my own. Bella is not impressed. The PennNLP blanket is hanging behind my desk at school!
   - name: washu_blanket.jpeg
+    title: WashU Blanket
     caption: A WashU blanket for my brother. This blanket was made with the C2C (corner to corner) technique and took several months!
   - name: grandma_sweater.jpeg
+    title: Grandma's Fisherman's Rib Sweater
     caption: A Fisherman's rib sweater for my grandma's birthday!
