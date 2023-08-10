@@ -46,7 +46,7 @@ Our chatbot is a web app with two pages: the home page and the chatbot interface
 ## Environment Assumptions
 For this tutorial, you will need to have [Python 3](https://www.google.com/url?q=https://www.python.org/downloads/&sa=D&source=editors&ust=1691389483846171&usg=AOvVaw3_H-BtjNdLDixi6SVfwjDb){:target="_blank"}, [Flask](https://www.google.com/url?q=https://flask.palletsprojects.com/en/2.2.x/&sa=D&source=editors&ust=1691389483846510&usg=AOvVaw2b_HaB0PPAbz0G7JiWr5lY){:target="_blank"}, and the [OpenAI API](https://www.google.com/url?q=https://beta.openai.com/overview&sa=D&source=editors&ust=1691389483846693&usg=AOvVaw1RyF6nYjioh4GIIyn1qOFg){:target="_blank"} installed on your computer, as well as a general-purpose IDE or text editor to write code in. You will also need an OpenAI account and credits to pay for running inference on or fine-tuning a model. You should store your OpenAI API key in a file called `.env`. Similar to the included `.env_example`. Fine-tuning Curie for this tutorial cost about $40.
 
-# Backend: Defining Data Flow with Python
+## Backend: Defining Data Flow with Python
 
 You can think of the "backend" as defining the flow of data throughout the web app: how does information get from one place to another? How does the user travel from one *endpoint* to another as they interact with the chatbot? In software engineering, an endpoint is like a virtual location that can receive HTTP requests and send HTTP responses. Our chatbot is actually a web application with two web pages as user-facing endpoints: the "home page" and the "chatbot interface page."
 
