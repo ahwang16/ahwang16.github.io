@@ -3,13 +3,19 @@ title: "Rewriting the Script: Adapting Text Instructions for Voice Interaction"
 summary: >
     Through our in-depth qualitative observation study, we identify nine challenges and eight potential solutions for voice assistants to "rewrite the script" to provide easy-to-follow instructions. Published at DIS 2023.
 layout:  post
-modified: 2023-07-11
+modified: 2023-09-18
 thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
-<div>
+
+# Resources
+- [DIS Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
+- [DIS Presentation PDF](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf)
+- [CLunch Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/RTS%20CLunch%202023%20Compressed.key.zip)
+- [CLunch Presentation PDF](/assets/files/project_resources/RTS%20CLunch%202023.pdf)
+
 <div class="responsive-wrap">
     <iframe width="100%" height="auto" src="https://www.youtube.com/embed/mlFHx17CbgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -17,10 +23,6 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 <iframe src="https://docs.google.com/viewer?url=https://dl.acm.org/doi/pdf/10.1145/3563657.3596059&embedded=true" title="Rewriting the Script: Adapting Text Instructions for Voice Interaction" style="width:100%; height:100vh;" frameborder="0"></iframe>
 
 <div markdown="1">
-# Resources
-- [Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
-- [Presentation PDF](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf)
-
 # Suggested Citation
 {% raw %}
 ```
