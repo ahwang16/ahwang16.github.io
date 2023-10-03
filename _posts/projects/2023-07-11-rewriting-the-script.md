@@ -1,7 +1,7 @@
 ---
 title: "Rewriting the Script: Adapting Text Instructions for Voice Interaction"
 summary: >
-    Through our in-depth qualitative observation study, we identify nine challenges and eight potential solutions for voice assistants to "rewrite the script" to provide easy-to-follow instructions. Published at DIS 2023.
+    Through our in-depth qualitative observation study, we identify nine challenges and eight potential solutions for voice assistants to "rewrite the script" to provide easy-to-follow instructions. Published at DIS 2023 and featured on Penn Engineering Today.
 layout:  post
 modified: 2023-09-18
 thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
@@ -9,6 +9,9 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 <style>
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
+
+# Media and Impact
+- **Rewriting the Script: Developing Effective AI Assistants**, Alyssa Hwang, [Penn Engineering Today](https://arxiv.org/abs/2309.05542).
 
 # Resources
 - [DIS Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
