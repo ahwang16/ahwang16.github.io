@@ -11,9 +11,11 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 </style>
 
 # Media and Impact
-- **Rewriting the Script: Developing Effective AI Assistants**, Alyssa Hwang, [Penn Engineering Today](https://arxiv.org/abs/2309.05542).
+- Rewriting the Script: Developing Effective AI Assistants, *[Penn Engineering Today](https://blog.seas.upenn.edu/rewriting-the-script-developing-effective-ai-assistants/)*
 
 # Resources
+- [DIS 2023 Publication](https://dl.acm.org/doi/10.1145/3563657.3596059){:target="_blank"}
+- [DIS 2023 Teaser Video](https://www.youtube.com/watch?v=mlFHx17CbgY){:target="_blank"}
 - [DIS Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
 - [DIS Presentation PDF](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf)
 - [CLunch Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/RTS%20CLunch%202023%20Compressed.key.zip)

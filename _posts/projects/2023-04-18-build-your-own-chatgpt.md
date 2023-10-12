@@ -51,19 +51,19 @@ ol li:before {
     
 </script>
 
-<div class="responsive-wrap">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
-</div>
-
-
 # Resources
-- [Chatbot Codebase](https://github.com/ahwang16/gpt3-chatbot)
-- [Fine-Tuning Notebook](https://github.com/ahwang16/gpt3-chatbot/blob/master/Finetune_GPT_3_for_Persona_Chatbot.ipynb)
+- [GitHub repo](https://github.com/ahwang16/gpt3-chatbot){:target="_blank"}
+- [Fine-tuning notebook](https://github.com/ahwang16/gpt3-chatbot/blob/master/Finetune_GPT_3_for_Persona_Chatbot.ipynb){:target="_blank"}
+- [Talk recording](https://www.youtube.com/watch?v=RrGXDKZcCN4){:target="_blank"}
 - Slides
     - [Presentation Keynote](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.key)
     - [Presentation PDF](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.pdf)
     - [Printer-Friendly Keynote](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.key)
     - [Printer-Friendly PDF](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.pdf)
+
+<div class="responsive-wrap">
+    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+</div>
 
 <details open>
     <summary><h3>Abstract</h3></summary>
