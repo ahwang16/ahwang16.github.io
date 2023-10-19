@@ -11,6 +11,7 @@ layout: home
     <p>PhD Student (Started Fall 2020)</p>
     <a href="https://www.cis.upenn.edu/">Computer and Information Science</a>
     <a href="https://www.upenn.edu/">University of Pennsylvania</a>
+    <p>she/her/hers <a href="https://namedrop.io/alyssahwang">🔈</a></p>
     <div>
         <button><a href="https://github.com/ahwang16">GitHub</a></button>
         <button><a href="https://scholar.google.com/citations?user=5IyLsmcAAAAJ&hl=en">Google Scholar</a></button>
