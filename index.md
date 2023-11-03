@@ -35,6 +35,7 @@ layout: home
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
     <ul>
+        <li>Nov 3, 2023: I just completed <a href="assets/files/project_resources/Grounded_Intuition_GPT-Vision.pdf">Grounded Intuition of GPT-Vision's Abilities with Scientific Figures</a>, an in-depth analysis of alt text generation with GPT-Vision. I based my procedure on methods from social science and HCI. The arXiv paper is scheduled to go live on Sunday (Nov 5)... or you sneak a peak here.</li>
         <li>Oct 2, 2023: My work on Rewriting the Script is being featured on <a href="https://blog.seas.upenn.edu/rewriting-the-script-developing-effective-ai-assistants/">Penn Engineering Today</a>!</li>
         <li>Sept 29, 2023: I was invited to <a href="https://devday.openai.com/">OpenAI DevDay 2023</a>! Feel free to email or chat with me if you are also attending.</li>
         <li>Sept 25, 2023: Kani, our new framework for building language model applications, has over 400 stars on <a href="https://github.com/zhudotexe/kani">GitHub</a>, is trending on GitHub and Papers With Code, and has been featured in several news articles. Check out our <a href="https://arxiv.org/abs/2309.05542">preprint on arXiv</a>.</li>
