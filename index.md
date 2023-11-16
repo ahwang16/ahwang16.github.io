@@ -14,7 +14,7 @@ layout: home
     <p>she/her/hers <a href="https://namedrop.io/alyssahwang">🔈</a></p>
     <div>
         <button><a href="https://github.com/ahwang16">GitHub</a></button>
-        <button><a href="https://scholar.google.com/citations?user=5IyLsmcAAAAJ&hl=en">Google Scholar</a></button>
+        <button><a href="https://scholar.google.com/citations?user=Tb-h12kAAAAJ&hl=en">Google Scholar</a></button>
         <button><a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a></button>
     </div>
 </div>
