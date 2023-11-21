@@ -15,7 +15,9 @@ layout: home
     <div>
         <button><a href="https://github.com/ahwang16">GitHub</a></button>
         <button><a href="https://scholar.google.com/citations?user=Tb-h12kAAAAJ&hl=en">Google Scholar</a></button>
+        <button><a href="https://www.linkedin.com/in/alyssa-hwang/">LinkedIn</a></button>
         <button><a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a></button>
+        <button><a href="assets/files/Alyssa_Hwang_Resume.pdf">Resume</a></button>
     </div>
 </div>
 
