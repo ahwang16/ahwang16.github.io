@@ -1,9 +1,10 @@
 ---
-title: "Rewriting the Script: Adapting Text Instructions for Voice Interaction"
+title: "Rewriting the Script"
 summary: >
-    Through our in-depth qualitative observation study, we identify nine challenges and eight potential solutions for voice assistants to "rewrite the script" to provide easy-to-follow instructions. Published at DIS 2023 and featured on Penn Engineering Today.
+    In-depth observational study of challenges and potential solutions for voice 
+    assistants that guide users through complex tasks.
 layout:  post
-modified: 2023-09-18
+modified: 2023-11-22
 thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 ---
 <style>
