@@ -8,7 +8,7 @@ title: Projects
 
 <p>Feel free to use my slides to reverse-engineer my figures for your talks. If you find my slides helpful, I would love to hear from you or be cited in your presentation. 😊</p>
 
-<div>
+<div style="display: flex; flex-direction: column; row-gap: 2vmin;">
     {% for post in site.posts %}
         {% if post.path contains 'projects' %}
         <div style="display: flex; column-gap: 3%;">
