@@ -1,13 +1,41 @@
 ---
-title: "Grounded Intuition for Large Language Models"
+title: "Grounded Intuition of GPT-Vision's Abilities with Scientific Images"
 summary: >
-    Under construction!
+    Deep investigation of GPT-Vision's ability to describe images from 
+    scientific papers along with a formal framework for qualitative analysis of 
+    large language models based on techniques from the social sciences and HCI.
 layout:  post
-modified: 2023-11-06
+modified: 2023-11-21
 thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
 
-This page is under construction! In the meantime, check out our [paper](https://arxiv.org/abs/2311.02069){:target="_blank"} or [GitHub repository](https://github.com/ahwang16/grounded-intuition-gpt-vision){:target="_blank"}.
+# Media and Impact
+- A Peak into the Future of Visual Data Interpretation, [*Penn Today*](https://penntoday.upenn.edu/news/peek-future-visual-data-interpretation){:target="_blank"}
+- ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition, [*Associated Press*](https://apnews.com/article/chatgpt-openai-tech-showcase-da850be425aaa269e2915e9e0b1c726a){:target="_blank"}  
+*Reposted by The Independent, ABC News, Washington Post, U.S. News & World Report, The Business Journal, CBS News, and others.*
+- As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed, [*TechCrunch*](https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/){:target="_blank"}
+
+# Resources
+- [GitHub repo](https://github.com/ahwang16/grounded-intuition-gpt-vision){:target="_blank"} 
+- [arXiv preprint](https://arxiv.org/abs/2311.02069){:target="_blank"}
+
+<iframe src="https://docs.google.com/viewer?url=https://arxiv.org/pdf/2311.02069.pdf&embedded=true" title="Grounded Intuition of GPT-Vision's Abilities with Scientific Images" style="width:100%; height:100vh;" frameborder="0"></iframe>
+
+<div markdown="1">
+# Suggested Citation
+{% raw %}
+```
+@misc{hwang_grounded_2023,
+      title={Grounded Intuition of GPT-Vision's Abilities with Scientific Images}, 
+      author={Alyssa Hwang and Andrew Head and Chris Callison-Burch},
+      year={2023},
+      eprint={2311.02069},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+{% endraw %}
+</div>
