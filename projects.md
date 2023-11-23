@@ -11,8 +11,8 @@ title: Projects
 <div style="display: flex; flex-direction: column; row-gap: 2vmin;">
     {% for post in site.posts %}
         {% if post.path contains 'projects' %}
-        <div style="display: flex; column-gap: 3%;">
-            <img src="{{ post.thumbnail }}" alt="Diagram of chatbot" style="width: 20%; height: auto; display: block; object-fit: scale-down;">
+        <div style="display: flex; align-items: flex-start; column-gap: 3%;">
+            <img src="{{ post.thumbnail }}" alt="Diagram of chatbot" style="object-fit: scale-down; height: auto; width: 20%;">
             <div style="display: flex; flex-direction: column; align-items: flex-start;">
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <p>Posted: {{ post.date | date: "%b %d, %Y" }} | Modified: {{ post.modified | date: "%b %d, %Y" }}</p>
