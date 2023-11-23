@@ -26,6 +26,9 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
     <iframe width="100%" height="auto" src="https://www.youtube.com/embed/mlFHx17CbgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+# Paper Viewer
+*If the PDF viewer does not appear, you may need to refresh or check Resources above.*
+
 <iframe src="https://docs.google.com/viewer?url=https://dl.acm.org/doi/pdf/10.1145/3563657.3596059&embedded=true" title="Rewriting the Script: Adapting Text Instructions for Voice Interaction" style="width:100%; height:100vh;" frameborder="0"></iframe>
 
 <div markdown="1">

@@ -11,6 +11,8 @@ thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
 
+![Grounded Intuition of GPT-Vision's Abilities with Scientific Papers](/assets/images/grounded_intuition/grounded_intuition_github.png)
+
 # Media and Impact
 - A Peak into the Future of Visual Data Interpretation, [*Penn Today*](https://penntoday.upenn.edu/news/peek-future-visual-data-interpretation){:target="_blank"}
 - ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition, [*Associated Press*](https://apnews.com/article/chatgpt-openai-tech-showcase-da850be425aaa269e2915e9e0b1c726a){:target="_blank"}  
@@ -20,6 +22,9 @@ thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
 # Resources
 - [GitHub repo](https://github.com/ahwang16/grounded-intuition-gpt-vision){:target="_blank"} 
 - [arXiv preprint](https://arxiv.org/abs/2311.02069){:target="_blank"}
+
+# Paper Viewer
+*If the PDF viewer does not appear, you may need to refresh or check Resources above.*
 
 <iframe src="https://docs.google.com/viewer?url=https://arxiv.org/pdf/2311.02069.pdf&embedded=true" title="Grounded Intuition of GPT-Vision's Abilities with Scientific Images" style="width:100%; height:100vh;" frameborder="0"></iframe>
 
