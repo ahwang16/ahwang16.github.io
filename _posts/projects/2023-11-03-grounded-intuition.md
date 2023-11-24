@@ -11,6 +11,13 @@ thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
 
+<a href="https://github.com/ahwang16/grounded-intuition-gpt-vision" class="button github darkbg" target="_blank" rel="noopener noreferrer">Repo</a>
+<a href="https://arxiv.org/abs/2311.02069" class="button arxiv darkbg" target="_blank" rel="noopener noreferrer">arXiv</a>
+<a href="https://arxiv.org/pdf/2311.02069.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">Paper</a>
+
+# Abstract
+GPT-Vision has impressed us on a range of vision-language tasks, but it comes with the familiar new challenge: we have little idea of its capabilities and limitations. In our study, we formalize a process that many have instinctively been trying already to develop “grounded intuition” of this new model. Inspired by the recent movement away from benchmarking in favor of example-driven qualitative evaluation, we draw upon grounded theory and thematic analysis in social science and human-computer interaction to establish a rigorous framework for qualitative evaluation in natural language processing. We use our technique to examine alt text generation for scientific figures, finding that GPT-Vision is particularly sensitive to prompting, counterfactual text in images, and relative spatial relationships. Our method and analysis aim to help researchers ramp up their own grounded intuitions of new models while exposing how GPT-Vision can be applied to make information more accessible.
+
 <!-- ![Grounded Intuition of GPT-Vision's Abilities with Scientific Papers](/assets/images/grounded_intuition/grounded_intuition_github.png) -->
 
 # Media and Impact
@@ -18,10 +25,6 @@ thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
 - ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition, [*Associated Press*](https://apnews.com/article/chatgpt-openai-tech-showcase-da850be425aaa269e2915e9e0b1c726a){:target="_blank"}  
 *Reposted by The Independent, ABC News, Washington Post, U.S. News & World Report, The Business Journal, CBS News, and others.*
 - As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed, [*TechCrunch*](https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/){:target="_blank"}
-
-# Resources
-- [GitHub repo](https://github.com/ahwang16/grounded-intuition-gpt-vision){:target="_blank"} 
-- [Paper](https://arxiv.org/abs/2311.02069){:target="_blank"}
 
 <!-- # Paper Viewer
 *If the PDF viewer does not appear, you may need to refresh or check Resources above.*

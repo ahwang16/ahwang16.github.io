@@ -11,25 +11,26 @@ thumbnail: /assets/images/project_thumbnails/rewriting_the_script_thumbnail.png
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }
 </style>
 
+<div>
+<a href="https://dl.acm.org/doi/10.1145/3563657.3596059" class="button acmdl darkbg" target="_blank" rel="noopener noreferrer">ACM DL</a>
+<a href="https://www.youtube.com/watch?v=mlFHx17CbgY" class="button youtube darkbg" target="_blank" rel="noopener noreferrer">Preview Video</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3563657.3596059" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">Paper</a>
+</div>
+<div style="margin-top: 5px;">
+<a href="/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip" class="button keynote lightbg">DIS Slides (.key)</a>
+<a href="/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">DIS Slides (.pdf)</a>
+</div>
+<div style="margin-top: 5px; margin-bottom: 20px;">
+<a href="/assets/files/project_resources/RTS%20CLunch%202023%20Compressed.key.zip" class="button keynote lightbg">CLunch Slides (.key)</a>
+<a href="/assets/files/project_resources/RTS%20CLunch%202023.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">CLunch Slides (.pdf)</a>
+</div>
+
 # Media and Impact
 - Rewriting the Script: Developing Effective AI Assistants, *[Penn Engineering Today](https://blog.seas.upenn.edu/rewriting-the-script-developing-effective-ai-assistants/)*
-
-# Resources
-- [Paper](https://dl.acm.org/doi/10.1145/3563657.3596059){:target="_blank"}
-- [DIS 2023 Teaser Video](https://www.youtube.com/watch?v=mlFHx17CbgY){:target="_blank"}
-- [DIS Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final%20Compressed.key.zip)
-- [DIS Presentation PDF](/assets/files/project_resources/Rewriting%20the%20Script%20DIS%202023%20Final.pdf)
-- [CLunch Presentation Keynote (Reduced size, zipped)](/assets/files/project_resources/RTS%20CLunch%202023%20Compressed.key.zip)
-- [CLunch Presentation PDF](/assets/files/project_resources/RTS%20CLunch%202023.pdf)
 
 <div class="responsive-wrap">
     <iframe width="100%" height="auto" src="https://www.youtube.com/embed/mlFHx17CbgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-<!-- # Paper Viewer
-*If the PDF viewer does not appear, you may need to refresh or check Resources above.*
-
-<iframe src="https://docs.google.com/viewer?url=https://dl.acm.org/doi/pdf/10.1145/3563657.3596059&embedded=true" title="Rewriting the Script: Adapting Text Instructions for Voice Interaction" style="width:100%; height:100vh;" frameborder="0"></iframe> -->
 
 <div markdown="1">
 # Suggested Citation

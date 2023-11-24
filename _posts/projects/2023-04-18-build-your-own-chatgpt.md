@@ -51,15 +51,21 @@ ol li:before {
     
 </script>
 
-# Resources
-- [GitHub repo](https://github.com/ahwang16/gpt3-chatbot){:target="_blank"}
-- [Fine-tuning notebook](https://github.com/ahwang16/gpt3-chatbot/blob/master/Finetune_GPT_3_for_Persona_Chatbot.ipynb){:target="_blank"}
-- [Talk recording](https://www.youtube.com/watch?v=RrGXDKZcCN4){:target="_blank"}
-- Slides
-    - [Presentation Keynote](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.key)
-    - [Presentation PDF](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.pdf)
-    - [Printer-Friendly Keynote](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.key)
-    - [Printer-Friendly PDF](/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.pdf)
+<div>
+<a class="button github darkbg" target="_blank" rel="noopener noreferrer" href="https://github.com/ahwang16/gpt3-chatbot">Repo</a>
+<a class="button colab darkbg" target="_blank" rel="noopener noreferrer" href="https://github.com/ahwang16/gpt3-chatbot/blob/master/Finetune_GPT_3_for_Persona_Chatbot.ipynb">Fine-tuning Notebook</a>
+<a class="button youtube darkbg" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=RrGXDKZcCN4">Talk Recording</a>
+</div>
+
+<div style="margin-top: 5px;">
+<a class="button keynote lightbg" target="_blank" rel="noopener noreferrer" href="/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.key">Presentation Slides (.key)</a>
+<a class="button pdf lightbg" target="_blank" rel="noopener noreferrer" href="/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Presentation.pdf">Presentation Slides (.pdf)</a>
+</div>
+
+<div style="margin-top: 5px; margin-bottom: 20px;">
+<a class="button keynote lightbg" target="_blank" rel="noopener noreferrer" href="/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.key">Printer-friendly Slides (.key)</a>
+<a class="button pdf lightbg" target="_blank" rel="noopener noreferrer" href="/assets/files/project_resources/Build%20Your%20Own%20ChatGPT%20Printer-Friendly.pdf">Printer-friendly Slides (.pdf)</a>
+</div>
 
 <div class="responsive-wrap">
     <iframe width="100%" height="auto" src="https://www.youtube.com/embed/RrGXDKZcCN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: block; margin: 0 auto;" allowfullscreen></iframe>

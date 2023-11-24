@@ -13,11 +13,11 @@ layout: home
     <a href="https://www.upenn.edu/">University of Pennsylvania</a>
     <p>she/her/hers <a href="https://namedrop.io/alyssahwang">🔈</a></p>
     <div>
-        <button><a href="https://github.com/ahwang16">GitHub</a></button>
-        <button><a href="https://scholar.google.com/citations?user=Tb-h12kAAAAJ&hl=en">Google Scholar</a></button>
-        <button><a href="https://www.linkedin.com/in/alyssa-hwang/">LinkedIn</a></button>
-        <button><a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a></button>
-        <button><a href="assets/files/Alyssa_Hwang_Resume.pdf">Resume</a></button>
+        <a class="button lightbg" target="_blank" rel="noopener noreferrer" href="https://github.com/ahwang16">GitHub</a>
+        <a class="button lightbg" target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=Tb-h12kAAAAJ&hl=en">Google Scholar</a>
+        <a class="button lightbg" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alyssa-hwang/">LinkedIn</a>
+        <a class="button lightbg" target="_blank" rel="noopener noreferrer" href="assets/files/Alyssa_Hwang_CV.pdf">CV</a>
+        <a class="button lightbg" target="_blank" rel="noopener noreferrer" href="assets/files/Alyssa_Hwang_Resume.pdf">Resume</a>
     </div>
 </div>
 

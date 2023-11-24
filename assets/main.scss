@@ -1,8 +1,104 @@
 ---
 ---
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Raleway&family=Nunito&family=Zen+Kaku+Gothic+New&display=swap');
+
+* {
+    font-family: "Raleway", "Zen Kaku Gothic New", sans-serif;
+}
+
+code {
+    font-family: "Courier Prime", Courier, monospace;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    border-radius: 4px;
+    padding: 2px 6px 2px 6px;
+    // font-family: "Verdana", sans-serif;
+    // border-color: #858585;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    border-style: outset;
+}
+
+.button:hover {
+    background-color: #c0c0c0;
+    text-decoration: none;
+}
+
+.lightbg:link, .lightbg:visited {
+    color: #22201B;
+}
+
+.darkbg:link, .darkbg:visited {
+    color: white;
+}
 
 .github {
     background-color: #238636;
-    color: white;
+}
+
+.github:hover {
+    background-color: #155121;
+}
+
+.arxiv {
+    background-color: #B31B1B;
+}
+
+.arxiv:hover {
+    background-color: #7C1313;
+}
+
+.pdf {
+    background-color: #FFF8E7;
+}
+
+.pdf:hover {
+    background-color: #F8ECCE;
+}
+
+.openreview {
+    background-color: #8C1C12;
+}
+
+.openreview:hover {
+    background-color: #6C160F;
+}
+
+.acmdl {
+    background-color: #000000;
+}
+
+.acmdl:hover {
+    background-color: #3B3F3D;
+}
+
+.youtube {
+    background-color: #FF0200;
+}
+
+.youtube:hover {
+    background-color: #E00000;
+}
+
+.keynote {
+    background-color: #b3ebff;
+}
+
+.keynote:hover {
+    background-color: #66d6ff;
+}
+
+.colab {
+    background-color: #F9AB02;
+}
+
+.colab:hover {
+    background-color: #E87109;
 }
