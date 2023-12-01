@@ -3,7 +3,7 @@ layout: post
 title: Your Application Timeline
 modified: 2022-05-23
 summary: A suggested timeline for applying to PhD programs and fellowships to help you get organized.
-category: phd-fellowships
+category: phd-fellowship-apps
 ---
 *Application deadlines are coming up and you don’t know what to do next. Or maybe you don’t know what to do first. Here’s a little timeline to help get yourself organized.*
 

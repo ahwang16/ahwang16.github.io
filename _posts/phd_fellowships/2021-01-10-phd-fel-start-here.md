@@ -4,7 +4,7 @@ summary: >
     A basic overview of the materials you need to prepare for PhD and fellowship applications.
 layout:  post
 modified: 2022-05-23
-category: phd-fellowships
+category: phd-fellowship-apps
 ---
 *You may be wondering where to get started when it comes to PhD admissions. You might not know that you should also be applying to fellowship apps at the same time. Here is a basic overview of the material you’ll need to prepare, all in the same place. Of course, each application will have its own individual set of rules and requirements, but most applications are some modification or combination of the pieces I’ve outlined below: personal statement, statement of purpose, research proposal, test scores/transcripts, and letters of recommendation. I’ll first go over the basics of fellowship and PhD applications along with some best practices, then I’ll explain each piece of the applications in a separate section.*
 
