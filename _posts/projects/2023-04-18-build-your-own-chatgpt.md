@@ -5,6 +5,7 @@ summary: >
 layout:  post
 modified: 2023-08-08
 thumbnail: /assets/images/project_thumbnails/chatbot_icon.jpg
+category: projects
 ---
 <style>
 .responsive-wrap iframe {

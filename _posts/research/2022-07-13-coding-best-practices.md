@@ -5,6 +5,7 @@ summary: >
     run something!
 layout:  post
 modified: 2022-08-09
+category: research-tips
 ---
 If your code is a monstrous mish-mosh of comments, global variables, and hard-coded who-knows-what, stop right now. This is your sign to *finally* refactor your code.
 

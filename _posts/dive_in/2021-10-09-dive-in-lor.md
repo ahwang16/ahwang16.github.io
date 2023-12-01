@@ -3,6 +3,7 @@ layout: post
 title: Strategizing Your Recommendation Letters
 modified: 2022-05-24
 summary: Did you know that you can help your letter writers write your letters? Presented at DivE In 2021.
+category: dive-in
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

@@ -3,6 +3,7 @@ layout: post
 title: New and Improved! Overview of the Application Process
 modified: 2022-10-17
 summary: An updated overview of the different parts of the PhD application, including what fellowships are and why you should apply for them. Presented at DivE In 2022.
+category: dive-in
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

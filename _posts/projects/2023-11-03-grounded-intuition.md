@@ -6,6 +6,7 @@ summary: >
 layout:  post
 modified: 2023-11-22
 thumbnail: /assets/images/grounded_intuition/grounded_intuition_icon.png
+category: projects
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%; aspect-ratio: 16 / 9; }

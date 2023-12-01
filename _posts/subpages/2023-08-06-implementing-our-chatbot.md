@@ -4,6 +4,7 @@ summary: >
     Part 2 of the Build Your Own ChatGPT tutorial.
 layout:  post
 modified: 2023-08-08
+permalink: /build-your-own-chatgpt/part-2-implementating.html
 ---
 <style>
     figure > * {

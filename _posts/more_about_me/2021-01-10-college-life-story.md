@@ -4,6 +4,7 @@ title: My Much-Abridged (College) Life Story
 summary: >
     What I learned from four years of wrestling the research monster at Columbia and why I wanted to go to grad school.
 modified: 2022-05-23
+category: about-me
 ---
 *People often ask me why I pursue research or want to go to grad school. This is my best (but still in-comprehensive) attempt at unravelling four long years of thinking, learning, and growing.*
 

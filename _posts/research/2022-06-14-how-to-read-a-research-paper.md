@@ -5,6 +5,7 @@ summary: >
     paper more effectively.
 layout:  post
 modified: 2022-07-10
+category: research-tips
 ---
 Reading a research paper isn't the same as reading a story, a newspaper 
 article, or even a textbook. Research papers tend to be dense, filled with 

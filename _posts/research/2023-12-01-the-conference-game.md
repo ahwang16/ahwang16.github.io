@@ -3,6 +3,7 @@ layout: post
 title: The Conference Game
 modified: 2023-12-01
 summary: Gamification is the key to productivity and bravery, right?
+category: research-tips
 ---
 
 When I was at [DIS 2023](https://dis.acm.org/2023/){:target="_blank"} over the 

@@ -3,6 +3,7 @@ layout: post
 title: How I Organize My Life
 modified: 2022-11-11
 summary: I don't like chaos, so I end up thinking about and using a lot of systems to keep myself organized. Here's an overview of some of my favorite tools and tips, in case it helps you too!
+category: research-tips
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
