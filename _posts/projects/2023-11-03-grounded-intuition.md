@@ -15,6 +15,8 @@ category: projects
 <a href="https://github.com/ahwang16/grounded-intuition-gpt-vision" class="button github darkbg" target="_blank" rel="noopener noreferrer">Repo</a>
 <a href="https://arxiv.org/abs/2311.02069" class="button arxiv darkbg" target="_blank" rel="noopener noreferrer">arXiv</a>
 <a href="https://arxiv.org/pdf/2311.02069.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">Paper</a>
+<a href="/assets/files/project_resources/Grounded_Intuition_CLunch_Final.key" class="button keynote lightbg">CLunch Slides (.key)</a>
+<a href="/assets/files/project_resources/Grounded_Intuition_CLunch_Final.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">CLunch Slides (.pdf)</a>
 
 # Abstract
 GPT-Vision has impressed us on a range of vision-language tasks, but it comes with the familiar new challenge: we have little idea of its capabilities and limitations. In our study, we formalize a process that many have instinctively been trying already to develop “grounded intuition” of this new model. Inspired by the recent movement away from benchmarking in favor of example-driven qualitative evaluation, we draw upon grounded theory and thematic analysis in social science and human-computer interaction to establish a rigorous framework for qualitative evaluation in natural language processing. We use our technique to examine alt text generation for scientific figures, finding that GPT-Vision is particularly sensitive to prompting, counterfactual text in images, and relative spatial relationships. Our method and analysis aim to help researchers ramp up their own grounded intuitions of new models while exposing how GPT-Vision can be applied to make information more accessible.
