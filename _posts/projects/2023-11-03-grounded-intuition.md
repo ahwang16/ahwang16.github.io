@@ -26,7 +26,7 @@ GPT-Vision has impressed us on a range of vision-language tasks, but it comes wi
 # Media and Impact
 - A Peak into the Future of Visual Data Interpretation, [*Penn Today*](https://penntoday.upenn.edu/news/peek-future-visual-data-interpretation){:target="_blank"}
 - ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition, [*Associated Press*](https://apnews.com/article/chatgpt-openai-tech-showcase-da850be425aaa269e2915e9e0b1c726a){:target="_blank"}  
-*Reposted by The Independent, ABC News, Washington Post, U.S. News & World Report, The Business Journal, CBS News, and others.*
+*Reposted by 167 US news outlets, including The Independent, ABC News, Washington Post, U.S. News & World Report, The Business Journal, and CBS News.*
 - As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed, [*TechCrunch*](https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/){:target="_blank"}
 
 <!-- # Paper Viewer
