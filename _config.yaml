@@ -4,8 +4,8 @@ author:
   email: ahwang16@seas.upenn.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   Alyssa Hwang is a PhD student at the University of Pennsylvania advised by
-  Andrew Head and Chris Callison-Burch. She develops AI interfaces that
-  effectively deliver complex information.
+  Andrew Head and Chris Callison-Burch. She works on AI assistants that help 
+  users manage many details at once.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
