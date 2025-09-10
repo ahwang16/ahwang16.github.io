@@ -24,7 +24,7 @@ layout: home
 <h1>Welcome!</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
-    <p>I am a final-year PhD student (😱😱😱) in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I am advised by <a href="https://www.andrewhead.info">Andrew Head</a>. I study <b>user interfaces for fine-grained integration of information</b>. In other words, I am interested in how we can use generative AI to augment information-heavy documents at the scale of phrases or image segments.</p>
+    <p>I am a final-year PhD student (😱😱😱) in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I am co-advised by <a href="https://boonloo.cis.upenn.edu/">Boon Thau Loo</a> and <a href="https://www.andrewhead.info">Andrew Head</a>. I study <b>user interfaces for fine-grained integration of information</b>. In other words, I am interested in how we can use generative AI to augment information-heavy documents at the scale of phrases or image segments.</p>
 
     <h2>I am on the job market!</h2>
     <p>
