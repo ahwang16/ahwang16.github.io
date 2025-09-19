@@ -24,18 +24,14 @@ layout: home
 <h1>Welcome!</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
-    <p>I am a final-year PhD student (😱😱😱) in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I am co-advised by <a href="https://boonloo.cis.upenn.edu/">Boon Thau Loo</a> and <a href="https://www.andrewhead.info">Andrew Head</a>. I study <b>user interfaces for fine-grained integration of information</b>. In other words, I am interested in how we can use generative AI to augment information-heavy documents at the scale of phrases or image segments.</p>
-
+    <p>I am a final-year PhD student (😱😱😱) in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I am co-advised by <a href="https://boonloo.cis.upenn.edu/">Boon Thau Loo</a> and <a href="https://www.andrewhead.info">Andrew Head</a>. I study <b>user interfaces for fine-grained integration of information</b>. In other words, I am interested in a wide range of AI-driven interfaces that augment information-dense documents at the granularity of phrases or image segments.</p>
     <h2>I am on the job market!</h2>
     <p>
-    I am interested in roles related to research, UX/UI, product design, software engineering, or consulting. Feel free to look through my <a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a> or send me an email if you would like to chat.
+    I am interested in roles related to HCI research, UXR, UI design, product management, or consulting. I am experienced with software prototyping, LLM frameworks, human-centered design, and usability testing. Feel free to look through my <a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a> or send me an email if you would like to chat.
     </p>
-
     <h2>More about me</h2>
     <p>Beyond research, I am "chair emerita" of the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a> and the founder of our department's Mentorship Program. I also care a lot about outreach programs, like the <a href="https://web.sas.upenn.edu/dive/">Diversity and Equity Initiative in the Mind Sciences</a> (DivE In Weekend). I have interned at Google and AWS, and my work has been featured by Tech Crunch, the Associated Press, and over 100 other US news outlets.</p>
-
     <p>My first three years were supported by the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>. I received an MS in Computer and Information Studies from Penn while working on my PhD. I also hold a BS in Computer Science from Columbia University, where I conducted research at the Natural Language Text Processing Lab and wrote an undergraduate thesis with Professor <a href="http://www.cs.columbia.edu/~kathy/">Kathleen McKeown</a>.</p>
-
     <p>ahwang16 at seas dot upenn dot edu</p>
 </div>
 
