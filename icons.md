@@ -7,7 +7,7 @@ I like creating fun, detailed, illustrative icons for my presentation slides. I 
 
  Feel free to use or modify my icons. Please just link to me somewhere in your slides or paper!
 
-If you have Keynote, you can download the <a href="/assets/files/full_icon_set.key" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">full set of icons</a> to modify them more easily. All icons here were made with Keynote tools.
+If you have Keynote, you can download the <a href="/assets/files/full_icon_set.key" class="button slides lightbg" target="_blank" rel="noopener noreferrer">full set of icons</a> to modify them more easily. All icons here were made with Keynote tools.
 
 <details>
 <summary>Some tips for making your own visuals:</summary>
