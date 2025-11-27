@@ -1,30 +1,120 @@
 - id: fun
   image_folder: /assets/images/fun
   images:
-  - name: animal_crossing.jpeg
-    title: Animal Crossing Bell Bags
-    alt: Inspired by a Reddit post and my friends' love for Animal Crossing, three Bell Bags customized with their favorite colors (orange, red, and blue stars on yellow pouches with red drawstrings).
-  - name: blanket.jpeg
-    title: Cable Knit Lap Blanket
-    alt: A lap blanket for my dad's birthday made by sewing together several strips of knitted Celtic cables (it is only half-done in this photo, oops!).
-  - name: christmas.jpeg
-    title: Ugly Christmas Scarf
-    alt: A stranded colorwork knit scarf in the style of an ugly Christmas sweater. It is mostly red and white, with a large green wreath, snowflakes, reindeer, and &quot;MERRY&quot; in big letters. I am wearing it and posing next to some stockings hung on a fireplace with my small fluffy dog, who is trying to lick my nose.
-  - name: columbia_scarf.jpeg
-    title: Columbia University Graduation Scarf
-    alt: An obnoxious double-sided scarf to celebrate graduating from Columbia Engineering, complate with my signature, SEAS crown logo, and &quot;COMPUTER SCIENCE&quot; in gold beads.
-  - name: mini_grad.jpeg
-    title: Columbia University Mini Graduation Regalia
-    alt: My research mentor and I didn't get an in-person graduation thanks to Coronavirus, so I crocheted us mini graduation gowns (left is doctoral, right is bachelors) for our pens to wear.
-  - name: octopus.jpeg
-    title: Crocheted Octopi
-    alt: Ollie the Octopus (top left store-bought plushie) was my high school senior mascot, so of course I crocheted some mini octokids (Princess is pink, Cotton Candy is blue, and Beelzebub is purple). The rainbow guy in the back is Kumquatz (I made him in middle school).
-  - name: PennNLP_blanket.jpeg
-    title: Penn NLP Blanket
-    alt: A white crocheted lap blanket with the Penn NLP logo. My small fluffy dog Bella is lying on top, looking relatively unimpressed.
-  - name: washu_blanket.jpeg
-    title: WashU Blanket
-    alt: A large WashU blanket for my brother. This blanket was made with the C2C (corner to corner) technique and took several months!
-  - name: grandma_sweater.jpeg
-    title: Grandma's Fisherman's Rib Sweater
-    alt: A Fisherman's rib sweater for my grandma's birthday!
+    - name: animal_crossing.jpeg
+      title: Animal Crossing Bell Bags
+      alt: Inspired by a Reddit post and my friends' love for Animal Crossing, three Bell Bags customized with their favorite colors (orange, red, and blue stars on yellow pouches with red drawstrings).
+    - name: blanket.jpeg
+      title: Cable Knit Lap Blanket
+      alt: A lap blanket for my dad's birthday made by sewing together several strips of knitted Celtic cables (it is only half-done in this photo, oops!).
+    - name: christmas.jpeg
+      title: Ugly Christmas Scarf
+      alt: A stranded colorwork knit scarf in the style of an ugly Christmas sweater. It is mostly red and white, with a large green wreath, snowflakes, reindeer, and &quot;MERRY&quot; in big letters. I am wearing it and posing next to some stockings hung on a fireplace with my small fluffy dog, who is trying to lick my nose.
+    - name: columbia_scarf.jpeg
+      title: Columbia University Graduation Scarf
+      alt: An obnoxious double-sided scarf to celebrate graduating from Columbia Engineering, complate with my signature, SEAS crown logo, and &quot;COMPUTER SCIENCE&quot; in gold beads.
+    - name: mini_grad.jpeg
+      title: Columbia University Mini Graduation Regalia
+      alt: My research mentor and I didn't get an in-person graduation thanks to Coronavirus, so I crocheted us mini graduation gowns (left is doctoral, right is bachelors) for our pens to wear.
+    - name: octopus.jpeg
+      title: Crocheted Octopi
+      alt: Ollie the Octopus (top left store-bought plushie) was my high school senior mascot, so of course I crocheted some mini octokids (Princess is pink, Cotton Candy is blue, and Beelzebub is purple). The rainbow guy in the back is Kumquatz (I made him in middle school).
+    - name: PennNLP_blanket.jpeg
+      title: Penn NLP Blanket
+      alt: A white crocheted lap blanket with the Penn NLP logo. My small fluffy dog Bella is lying on top, looking relatively unimpressed.
+    - name: washu_blanket.jpeg
+      title: WashU Blanket
+      alt: A large WashU blanket for my brother. This blanket was made with the C2C (corner to corner) technique and took several months!
+    - name: grandma_sweater.jpeg
+      title: Grandma's Fisherman's Rib Sweater
+      alt: A Fisherman's rib sweater for my grandma's birthday!
+- id: icons
+  image_folder: /assets/images/icons
+  images:
+    - name: alexa_echo_dot.png
+      title: Alexa Echo Dot
+      alt: 4th gen Alexa Echo Dot with activation light on bottom.
+    - name: arvr_shiny.png
+      title: Shiny AR/VR goggles
+      alt: Black AR/VR goggles with shiny accents.
+    - name: book_science.png
+      title: Science book
+      alt: Closed red book with shiny gold atom on the cover.
+    - name: chat_monocolor.png
+      title: Gray chat
+      alt: Gray message and response in chat interface.
+    - name: clipboard_medical.png
+      title: Clipboard with medical document
+      alt: Light brown clipboard with light gray clip and medical document.
+    - name: code.png
+      title: Mini code snippet
+      alt: Mini code snippet on dark background.
+    - name: contract.png
+      title: Contract
+      alt: Page of contract with signature line and flag.
+    - name: diagram.png
+      title: Diagram
+      alt: Blue diagram with connecting lines.
+    - name: graph_bars.png
+      title: Bar graph
+      alt: Bar graph with six vertical bars of varying heights and colors.
+    - name: graph_lines.png
+      title: Line graph
+      alt: Line graph with two lines mimicking loss/accuracy curves.
+    - name: hand_move.png
+      title: Hand swipe
+      alt: Open hand with motion lines indicating swipe to the right.
+    - name: map.png
+      title: World map
+      alt: World map with green-blue gradient.
+    - name: newspaper.png
+      title: Newspaper
+      alt: Folded front page of newspaper.
+    - name: paper_middle_graphs.png
+      title: Paper with graphs
+      alt: Paper scrolled to show graphs and text.
+    - name: paper_split.png
+      title: Split paper
+      alt: Paper torn in half horizontally to indicate fragmentation.
+    - name: paragraph.png
+      title: Paragraph
+      alt: Paragraph with several lines of text on an index card.
+    - name: paragraph_long.png
+      title: Long paragraph
+      alt: Paragraph with many lines of text.
+    - name: paragraph_short.png
+      title: Short paragraph
+      alt: Paragraph with few lines of text.
+    - name: paragraph_short.png
+      title: Short paragraph 1
+      alt: Paragraph with few lines of text.
+    - name: paragraph_short_2.png
+      title: Short paragraph 2
+      alt: Paragraph with few lines of text.
+    - name: paragraph_short_3.png
+      title: Short paragraph 3
+      alt: Paragraph with few lines of text.
+    - name: paragraph_tiny.png
+      title: Tiny paragraph
+      alt: Paragraph with very few lines of text.
+    - name: paragraph_tiny_2.png
+      title: Tiny paragraph 2
+      alt: Paragraph with very few lines of text.
+    - name: person.png
+      title: Person (gray)
+      alt: Simplified silhouette of a person with a circular head and round shoulders.
+    - name: photo_landscape.png
+      title: Landscape photo
+      alt: Landscape photo with hills and sun, inspired by old Windows default wallpaper.
+    - name: search.png
+      title: Search engine results
+      alt: List of search result links, inspired by Google.
+    - name: table.png
+      title: Table
+      alt: Bookstyle table with header row and several columns.
+    - name: xray.png
+      title: X-ray
+      alt: X-ray image of a human torso.
+    - name: youtube.png
+      title: YouTube logo
+      alt: Red icon with white play button to represent YouTube logo.
