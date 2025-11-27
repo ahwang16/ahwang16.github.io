@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Andrew Head and Chris Callison-Burch. She works on AI assistants that help 
   users manage many details at once.
 show_excerpts: false # set to true to show excerpts on the homepage
-
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -16,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  ahwang16
+    github: ahwang16
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -51,6 +50,7 @@ minima:
 header_pages:
   - CV.md
   - projects.md
+  - icons.md
   - advice.md
 
 # Build settings
@@ -59,5 +59,5 @@ theme: minima
 permalink: /:collection/:categories/:title:output_ext
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
