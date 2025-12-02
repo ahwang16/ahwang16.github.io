@@ -16,7 +16,15 @@ category: projects
 <a href="/assets/files/project_resources/hwang_proposal.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">Proposal Slides (.pdf)</a>
 <a href="https://drive.google.com/file/d/1TNzMr0Nx-O05gAt4_KJwiOARICJrOdxz/view?usp=drive_link" class="button pdf lightbg">Proposal (.pdf)</a>
 
-I successfully defended my dissertation on November 27, 2025.
+I successfully defended my dissertation on November 26, 2025. <span style="background-color: lavender;">*Source code and demo video coming soon!*</span>
+
+<style>
+    iframe {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+    }
+</style>
+<iframe src="https://www.youtube.com/embed/DKVAx7-w-tU?si=1CBoQEXXPvgQchQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Abstract
 Understanding information-dense documents like recipes and scientific papers requires readers to find, interpret, and connect details scattered across text, figures, tables, and other visual elements. These documents are often long and filled with specialized terminology, hindering the ability to locate relevant information or piece together related ideas. Existing tools offer limited support for synthesizing information across media types. As a result, understanding complex material remains cognitively demanding.
