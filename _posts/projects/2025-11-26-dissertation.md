@@ -3,7 +3,7 @@ title: "User Interfaces for Fine-grained Integration of Information"
 summary: >
     PhD dissertation and augmentated reading interface for research papers.
 layout:  post
-modified: 2025-11-27
+modified: 2025-12-01
 thumbnail: /assets/images/project_thumbnails/dissertation_icon.png
 category: projects
 ---
@@ -24,7 +24,7 @@ I successfully defended my dissertation on November 26, 2025. <span style="backg
         aspect-ratio: 16 / 9;
     }
 </style>
-<iframe src="https://www.youtube.com/embed/DKVAx7-w-tU?si=1CBoQEXXPvgQchQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QspZjf4KoM0?si=c-dWaeNInAFvndof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Abstract
 Understanding information-dense documents like recipes and scientific papers requires readers to find, interpret, and connect details scattered across text, figures, tables, and other visual elements. These documents are often long and filled with specialized terminology, hindering the ability to locate relevant information or piece together related ideas. Existing tools offer limited support for synthesizing information across media types. As a result, understanding complex material remains cognitively demanding.
