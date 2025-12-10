@@ -24,7 +24,8 @@ I successfully defended my dissertation on November 26, 2025. <span style="backg
         aspect-ratio: 16 / 9;
     }
 </style>
-<iframe src="https://www.youtube.com/embed/QspZjf4KoM0?si=c-dWaeNInAFvndof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/tvaJx0ILKO4?si=WAwmfWVG7nOJD8br" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Abstract
 Understanding information-dense documents like recipes and scientific papers requires readers to find, interpret, and connect details scattered across text, figures, tables, and other visual elements. These documents are often long and filled with specialized terminology, hindering the ability to locate relevant information or piece together related ideas. Existing tools offer limited support for synthesizing information across media types. As a result, understanding complex material remains cognitively demanding.
