@@ -8,7 +8,7 @@ layout: home
             alt="Headshot of Alyssa Hwang">
     </div>
     <h2><a href="/fun">Alyssa Hwang</a></h2>
-    <p>PhD Candidate (Started Fall 2020)</p>
+    <p>PhD Graduate</p>
     <a href="https://www.cis.upenn.edu/">Computer and Information Science</a>
     <a href="https://www.upenn.edu/">University of Pennsylvania</a>
     <p>she/her/hers <a href="https://namedrop.io/alyssahwang">🔈</a></p>
@@ -24,21 +24,22 @@ layout: home
 <h1>Welcome!</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
-    <p>I am a final-year PhD student (😱😱😱) in the Department of Computer and Information Science (CIS) at the University of Pennsylvania, where I am co-advised by <a href="https://boonloo.cis.upenn.edu/">Boon Thau Loo</a> and <a href="https://www.andrewhead.info">Andrew Head</a>. I study <b>user interfaces for fine-grained integration of information</b>. In other words, I am interested in a wide range of AI-driven interfaces that augment information-dense documents at the granularity of phrases or image segments.</p>
+    <p>I graduated with my PhD in computer science from the University of Pennsylvania, where I was co-advised by <a href="https://boonloo.cis.upenn.edu/">Boon Thau Loo</a> and <a href="https://www.andrewhead.info">Andrew Head</a>. I studied <b>user interfaces for fine-grained integration of information</b>. I am broadly interested in designing AI-driven products that make complex information easier to understand. I enjoy thinking about many modalities, like reading tools or voice interaction. I am experienced with user research, LLM prototyping, and mixed-methods analysis.</p>
     <h2>I am on the job market!</h2>
     <p>
-    I am interested in roles related to HCI research, UXR, UI design, product management, or consulting. I am experienced with software prototyping, LLM frameworks, human-centered design, and usability testing. Feel free to look through my <a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a> or send me an email if you would like to chat.
+    I am seeking roles related to user experience research, HCI research, product management, AI strategy, or consulting. Feel free to look through my <a href="assets/files/Alyssa_Hwang_CV.pdf">CV</a>/<a href="assets/files/Alyssa_Hwang_Resume.pdf">resume</a> or send me an email if you would like to chat.
     </p>
     <h2>More about me</h2>
-    <p>Beyond research, I am "chair emerita" of the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a> and the founder of our department's Mentorship Program. I also care a lot about outreach programs, like the <a href="https://web.sas.upenn.edu/dive/">Diversity and Equity Initiative in the Mind Sciences</a> (DivE In Weekend). I have interned at Google and AWS, and my work has been featured by Tech Crunch, the Associated Press, and over 100 other US news outlets.</p>
-    <p>My first three years were supported by the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>. I received an MS in Computer and Information Studies from Penn while working on my PhD. I also hold a BS in Computer Science from Columbia University, where I conducted research at the Natural Language Text Processing Lab and wrote an undergraduate thesis with Professor <a href="http://www.cs.columbia.edu/~kathy/">Kathleen McKeown</a>.</p>
-    <p>ahwang16 at seas dot upenn dot edu</p>
+    <p>Beyond research, I was "chair emerita" of the <a href="https://penn-cisda.github.io">CIS Doctoral Association</a> and the founder of our department's Mentorship Program. I have interned at Google and AWS, and my work has been featured by Tech Crunch, the Associated Press, and over 100 other US news outlets. My first three years were supported by the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>. I received an MS in Computer and Information Studies from Penn while working on my PhD. I also hold a BS in Computer Science from Columbia University, where I conducted research at the Natural Language Text Processing Lab and wrote an undergraduate thesis with Professor <a href="http://www.cs.columbia.edu/~kathy/">Kathleen McKeown</a>.</p>
+    
+    <p>alyssahwang at alumni dot upenn dot edu</p>
 </div>
 
 <h1>Recent News</h1>
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
     <ul>
+        <li>Dec 18, 2025: Officially graduated! Check out my <a href="/posts/projects/dissertation.html">dissertation and related projects</a>.</li>
         <li>Nov 26, 2025: I successfully defended my PhD dissertation!</li>
         <li>Aug 4, 2025: I defended my thesis proposal. Officially a PhD candidate! 👩🏻‍🎓 I am on the industry job market and expect to graduate in December.</li>
         <li>Oct 21, 2024: New collaborations, publications, and pre-prints! <a href="https://aclanthology.org/2024.acl-long.674/">RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors</a> (ACL 2024), <a href="https://aclanthology.org/2024.acl-short.2/">FanOutQA: A Multi-Hop, Multi-Document Question Answering Benchmark for Large Language Models</a> (ACL 2024), <a href="https://arxiv.org/abs/2410.03882">JumpStarter: Getting Started on Personal Goals with AI-Powered Context Curation</a> (in submission), and <a href="https://arxiv.org/abs/2402.18479">NewsQs: Multi-Source Question Generation for the Inquiring Mind</a> (AWS 2022 internship paper).</li>

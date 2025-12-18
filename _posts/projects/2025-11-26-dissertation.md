@@ -18,6 +18,7 @@ category: projects
 
 I successfully defended my dissertation on November 26, 2025. <span style="background-color: lavender;">*Source code and demo video coming soon!*</span>
 
+# Defense
 <style>
     iframe {
         width: 100%;
