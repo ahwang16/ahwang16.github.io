@@ -11,7 +11,7 @@ title: Projects
 <div style="display: flex; flex-direction: column; row-gap: 2vmin;">
     {% for post in site.posts %}
         {% if post.path contains 'projects' %}
-        <div style="display: flex; align-items: flex-start; column-gap: 3%;">
+        <div style="display: flex; align-items: center; column-gap: 3%;">
             <img src="{{ post.thumbnail }}" alt="" style="object-fit: scale-down; height: auto; width: 20%;">
             <div style="display: flex; flex-direction: column; align-items: flex-start;">
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

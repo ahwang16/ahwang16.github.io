@@ -1,9 +1,9 @@
 ---
 title: "User Interfaces for Fine-grained Integration of Information"
 summary: >
-    PhD dissertation and augmentated reading interface for research papers.
+    PhD dissertation and defense.
 layout:  post
-modified: 2025-12-01
+modified: 2025-12-19
 thumbnail: /assets/images/project_thumbnails/dissertation_icon.png
 category: projects
 ---
@@ -16,7 +16,7 @@ category: projects
 <a href="/assets/files/project_resources/hwang_proposal.pdf" class="button pdf lightbg" target="_blank" rel="noopener noreferrer">Proposal Slides (.pdf)</a>
 <a href="https://drive.google.com/file/d/1TNzMr0Nx-O05gAt4_KJwiOARICJrOdxz/view?usp=drive_link" class="button pdf lightbg">Proposal (.pdf)</a>
 
-I successfully defended my dissertation on November 26, 2025. <span style="background-color: lavender;">*Source code and demo video coming soon!*</span>
+I successfully defended my dissertation on November 26, 2025. <span style="background-color: lavender;"><a href="/projects/intfigs">*Source code and demo video coming soon!*</a></span>
 
 # Defense
 <style>

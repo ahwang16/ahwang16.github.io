@@ -54,7 +54,7 @@ header_pages:
 # Build settings
 theme: minima
 
-permalink: /:collection/:categories/:title:output_ext
+permalink: /:categories/:title
 
 plugins:
   - jekyll-feed
