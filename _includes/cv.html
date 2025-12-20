@@ -1,0 +1,243 @@
+<style>
+    .cv * {
+        font-family: "Noto Sans", monospace, sans-serif;
+    }
+
+    .cv_header .name {
+        padding-top: 1em;
+        padding-bottom: 0.1em;
+        font-size: 1.5em;
+        font-weight: 700;
+    }
+
+    .cv_header p {
+        margin-bottom: 0rem;
+    }
+
+    .cv p {
+        margin-bottom: 0rem;
+    }
+
+    .cv table td {
+        background-color: transparent;
+        border: none;
+        font-weight: 400;
+        padding: 0 0 0 0;
+        padding-bottom: 1%;
+        vertical-align: top;
+    }
+
+    .cv table td.single {
+        padding-bottom: 0;
+    }
+
+    .cv table td.details {
+        padding-left: 3%;
+    }
+
+    .cv table tr {
+        background-color: transparent;
+    }
+
+    .cv table {
+        border: none;
+    }
+
+    h1 {
+        font-size: 1.2em;
+        font-weight: 700;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem
+    }
+
+    .double {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .cv table .org {
+        font-weight: bold;
+    }
+
+    .position {
+        font-style: italic;
+    }
+
+    .date-column {
+        margin-right: 3%;
+        width: fit-content;
+        white-space: nowrap;
+    }
+
+    .description {
+        font-style: italic;
+    }
+
+    .citation.title {
+        font-weight: 700;
+    }
+
+    .citation.me {
+        font-weight: 700;
+    }
+
+    .citation.venue {
+        font-style: italic;
+    }
+</style>
+
+<div class="cv">
+    <div class="cv_header">
+        <p class="name">Alyssa Hwang</p>
+        <p class="title">PhD Graduate</p>
+        <p>Department of Computer and Information Science</p>
+        <p class="institution">University of Pennsylvania</p>
+        <p>Last modified: {{ site.data.cvresume.modified }}</p>
+    </div>
+
+    <table class="cv">
+        <tbody>
+            <tr>
+                <td colspan=2>
+                    <h1>Education</h1>
+                </td>
+            </tr>
+            {% for edu in site.data.cvresume.education %}
+            <tr>
+                <td>{{ edu.graduation }}</td>
+                <td class="details">
+                    <p class="org">{{ edu.institution }}</p>
+                    <p><span class="position">{{ edu.degree }}</span> in {{ edu.field }}</p>
+                    {% if edu.thesis %}<p><span class="position">Thesis</span>: {{ edu.thesis }}</p>{% endif
+                    %}
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Industry Experience</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.industry %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p><span class="org">{{ item.company }}</span> ({{ item.position }})</p>
+                    <p>{{ item.details }}</p>
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Honors</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.honors %}
+            <tr class="cv">
+                <td class="date-column single">{{ item.date }}</td>
+                <td class="details single">
+                    <p><span class="org">{{ item.org }}</span> ({{ item.title }})</p>
+                    {% if item.description %}<p class="description">{{ item.description }}</p>{% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Publications, Articles, and Preprints</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.pubs %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p class="org">{{ item.title }}</p>
+                    <p>
+                        {% if item.authors1 %} {{ item.authors1 }}, {% endif %}<span class="citation me">Alyssa Hwang{%
+                            if item.co-author %}*{% endif %}</span>{% if item.authors2 %}, {{ item.authors2 }}{% endif
+                        %}.
+                    </p>
+                    {% if item.venue %}<p class="citation venue"><a href="{{ item.link }}">{{ item.venue }}</a>{% if
+                        item.status %} ({{ item.status }}) {% endif%}</p>
+                    {% else %}<p>{{ item.status }}.</p>{% endif %}
+                    {% if item.description %}<p class="description">{{ item.description }}</p>{% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Invited Talks</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.talks %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p class="org">{{ item.host }}</p>
+                    {% if item.event %}<p class="description">{{ item.event }}</p>{% endif %}
+                    <p>{{ item.title }}</p>
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Selected Media and Impact</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.media %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p class="org">{{ item.title }}</p>
+                    <p>{% if item.author %} {{ item.author }}, {% else %} <span class="me">Alyssa Hwang</span>,{% endif
+                        %} <a href="{{item.link}}" class="description">{{ item.outlet }}</a>{% if item.outlet2 %} {{
+                        item.outlet2 }} {% endif %}.</p>
+                    {% if item.description %}<p class="description">{{ item.description }}</p>{% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Mentoring</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.mentoring %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p>{{ item.mentee }} ({{ item.program }})</p>
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Outreach</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.outreach %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p class="org">{{ item.host }}</p>
+                    <p><span class="description">{{ item.role }}</span>, {{ item.event }}</p>
+                </td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td colspan=2>
+                    <h1>Leadership</h1>
+                </td>
+            </tr>
+            {% for item in site.data.cvresume.leadership %}
+            <tr class="cv">
+                <td class="date-column">{{ item.date }}</td>
+                <td class="details">
+                    <p><span class="description">{{ item.role }}</span>, <span class="org">{{ item.org }}</span></p>
+                    {% if item.role2 %}<p><span class="description">{{ item.role2 }}</span></p>{% endif %}
+                    {% if item.description %}<p>{{ item.description }}</p>{% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>

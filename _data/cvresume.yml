@@ -1,0 +1,266 @@
+modified: Saturday, December 20, 2025
+education:
+  - degree: PhD
+    field: Computer and Information Science
+    institution: University of Pennsylvania
+    graduation: Dec 2025
+    thesis: User Interfaces for Fine-grained Integration of Information
+  - degree: MS
+    field: Computer and Information Science
+    institution: University of Pennsylvania
+    graduation: Dec 2023
+  - degree: BS
+    field: Computer Science.
+    institution: Columbia University
+    graduation: May 2020
+    thesis: Towards Augmenting Lexical Resources for Slang and African American English
+industry:
+  - company: Amazon Web Services
+    position: Applied Scientist Intern
+    date: Summer 2022
+    location: New York, NY
+    details: Explore zero-shot performance across a variety of large language models, develop cross-domain training method, and partner with data linguist team to produce and evaluate a dataset for query-based multi-document summarization (containing questions, summaries, and clusters of source documents) (Comprehend Team).
+  - company: Google
+    position: Software Engineering Intern
+    date: Summer 2021
+    location: Pittsburgh, PA
+    details: Design clustering and ranking algorithm to display top user-submitted review images for Shopping; analyze image data and propose signal thresholds to identify low-quality images (Google Shopping and Pointer Content Understanding Teams).
+  - company: Google
+    position: Software Engineering Intern
+    date: Summer 2020
+    location: Mountain View, CA
+    details: Implement hierarchical RNN models in Tensorflow to predict dialogue act labels with BERT embeddings (DialogFlow Team).
+  - company: Google
+    position: Software Engineering Intern
+    date: Summer 2019
+    location: Mountain View, CA
+    details: Build image carousel for displaying relevant images in Google Search event cards (Events Search Team).
+honors:
+  - org: OpenAI
+    title: DevDay Invited Attendee
+    date: 2023
+  - org: Penn Engineering
+    title: Outstanding Service Award
+    date: 2023
+  - org: Amazon Alexa Prize Taskbot Competition
+    title: Finalist Team
+    date: 2022
+  - org: CRA-WP Grad Cohort for Women
+    title: Invited Attendee
+    date: 2022
+  - org: Columbia University
+    title: Theodore R. Bashkow Award
+    date: 2020
+    description: Presented to a senior in computer science who has excelled in independent projects.
+  - org: National Science Foundation
+    title: Graduate Research Fellowship Program
+    date: 2020
+  - org: Google
+    title: Grace Hopper Celebration Travel Scholarship
+    date: 2019
+  - org: Johnson and Johnson
+    title: Summer Research Grant
+    date: 2018
+  - org: Columbia University
+    title: Data Science Institute Scholars Program and Grant
+    date: 2018
+pubs:
+  - title: Interactive Figure-Text Integration at Document Scale
+    authors2: Hita Kambhamettu, Yue Yang, Ajay Patel, Joseph Chee Chang, Andrew Head
+    status: In preparation
+    date: 2025
+  - title: "Attribution Gradients: Incrementally Unfolding Citations for Critical Examination of Attributed AI Answers"
+    authors1: Hita Kambhamettu
+    authors2: Philippe Laban, Andrew Head
+    venue: arXiv preprint
+    link: https://arxiv.org/abs/2510.00361
+    status: in submission
+    date: arXiv 2025
+  - title: "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors"
+    authors1: Liam Dugan
+    authors2: Filip Trhlík, Josh Magnus Ludan, Andrew Zhu, Hainiu Xu, Daphne Ippolito, Chris Callison-Burch
+    venue: Association for Computational Linguistics 2024
+    link: https://aclanthology.org/2024.acl-long.674/
+    date: ACL 2024
+  - title: "FanOutQA: Multi-Hop, Multi-Document Question Answering for Large Language Models"
+    authors1: Andrew Zhu
+    authors2: Liam Dugan, Chris Callison-Burch
+    venue: Association for Computational Linguistics 2024
+    link: https://aclanthology.org/2024.acl-short.2/
+    date: ACL 2024
+  - title: "Ivie: Lightweight Anchored Explanations of Just-Generated Code"
+    authors1: Litao Yan
+    authors2: Zhiyuan Wu, Andrew Head
+    venue: ACM Conference on Human Factors in Computing Systems 2024
+    link: https://dl.acm.org/doi/10.1145/3613904.3642239
+    date: CHI 2024
+  - title: "NewsQs: Multi-Source Question Generation for the Inquiring Mind"
+    authors2: Kalpit Dixit, Miguel Ballesteros, Yassine Benajiba, Vittorio Castelli, Markus Dreyer, Mohit Bansal, Kathleen McKeown
+    venue: arXiv preprint
+    link: https://arxiv.org/abs/2402.18479
+    date: arXiv 2024
+    description: Work conducted during an internship at AWS AI Labs.
+  - title: Grounded Intuition of GPT-Vision's Abilities with Scientific Figures
+    authors2: Andrew Head, Chris Callison-Burch
+    venue: arXiv preprint
+    link: https://arxiv.org/abs/2311.02069
+    date: arXiv 2023
+  - title: "Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications"
+    authors1: Andrew Zhu*, Liam Dugan*
+    authors2: Chris Callison-Burch
+    venue: Workshop for Natural Language Processing Open-Source Software (co-located with EMNLP)
+    link: https://aclanthology.org/2023.nlposs-1.8/
+    date: NLP-OSS 2023
+  - title: "Large Language Models as Sous Chefs: Revising Recipes with GPT-3"
+    co-author: true
+    authors2: Bryan Li*, Zhaoyi Hou*, Dan Roth
+    venue: arXiv preprint
+    link: https://arxiv.org/abs/2306.13986
+    date: arXiv 2023
+  - title: "Rewriting the Script: Adapting Text Instructions for Voice Interaction"
+    authors2: Natasha Oza, Chris Callison-Burch, Andrew Head
+    venue: ACM Conference on Designing Interactive Systems
+    link: https://dl.acm.org/doi/10.1145/3563657.3596059
+    date: DIS 2023
+  - title: "QuakerBot: A Household Dialog System Powered by Large Language Models"
+    authors1: Artemis Panagopoulou, Manni Arora, Li Zhang, Dimitri Cugini, Weiqiu You, Yue Yang, Liyang Zhou, Yuxuan Wang, Zhaoyi Hou
+    authors2: Lara Martin, Sherry Shi, Chris Callison-Burch, Mark Yatskar
+    venue: Alexa Prize Taskbot Proceedings
+    link: https://www.amazon.science/alexa-prize/proceedings/quakerbot-a-household-dialog-system-powered-by-large-language-models
+    date: Amazon 2022
+  - title: Towards Augmenting Lexical Resources for Slang and African American English
+    authors2: William R. Frey, and Kathleen McKeown
+    venue: Workshop on NLP for Similar Languages, Varieties and Dialects (co-located with COLING)
+    link: https://aclanthology.org/2020.vardial-1.15/
+    date: VarDial 2020
+  - title: "AMPERSAND: Argument Mining for PERSuAsive oNline Discussions"
+    authors1: Tuhin Chakrabarty, Christopher Hidey, Smaranda Muresan, Kathy McKeown
+    venue: Empirical Methods in Natural Language Processing and International Joint Conference on Natural Language Processing
+    link: https://aclanthology.org/D19-1291/
+    date: EMNLP 2019
+  - title: Confirming the Non-compositionality of Idioms for Sentiment Analysis
+    authors2: Christopher Hidey
+    venue: Joint Workshop on Multiword Expressions and WordNet (co-located with ACL)
+    link: https://aclanthology.org/W19-5114/
+    date: MWE-WN 2019
+talks:
+  - title: Authorship Matters in Generative AI
+    host: The Ethics Institute at Kent Place School
+    event: Rethinking Ethical Behavior for Oneself Online Together (REBOOT) assembly
+    date: Nov 20, 2024
+  - title: A Principled Approach to Developing Grounded Intuition of Generative Models
+    host: Google People and AI Research (PAIR) Machine Learning
+    date: Apr 18, 2024
+  - title: "Rewriting the Script: Human-Centered Opportunities for Natural Language Processing"
+    host: Columbia University Natural Language Processing Seminar
+    date: Apr 17, 2024
+  - title: Human-centered AI Research and Design
+    host: Women in Data Science @ Penn
+    date: Feb 9, 2024
+  - title: Developing Grounded Intuition of Large Language Models
+    host: University of Pennsylvania Computational Linguistics Lunch (CLunch)
+    date: Jan 29, 2024
+  - title: "Rewriting the Script: Adapting Text Instructions for Voice Interaction"
+    host: University of Pennsylvania Computational Linguistics Lunch (CLunch)
+    date: Sept 18, 2023
+media:
+  - title: "AI's Hidden Challenges: A Conversation with Alyssa Hwang"
+    author: Season 3 Episode 4
+    outlet: Tapping In
+    outlet2: podcast
+    link: https://player.captivate.fm/episode/16e021fc-37b5-4c04-b784-6d84f9c439dd
+    date: Dec 5, 2024
+  - title: Wider Perspectives
+    author: Laura J. Cole
+    outlet: Kent Place Magazine
+    outlet2: (cover story)
+    link: https://issuu.com/kentplace/docs/kentplace_w24_issue_pages_webquality
+    date: Mar 1, 2024
+  - title: A Peak into the Future of Visual Data Interpretation
+    author: Nathi Magubane
+    outlet: Penn Today
+    link: https://penntoday.upenn.edu/news/peek-future-visual-data-interpretation
+    date: Nov 16, 2023
+  - title: ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition
+    author: Barbara Ortutay and Matt O'Brien
+    outlet: Associated Press
+    description: Reposted by 162 US news outlets, including The Independent, ABC News, Washington Post, U.S. News & World Report, The Business Journal, and CBS News.
+    date: Nov 7, 2023
+  - title: As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed
+    author: Kyle Wiggers
+    outlet: TechCrunch
+    link: https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/
+    date: Nov 6, 2023
+  - title: "Rewriting the Script: Developing Effective AI Assistants"
+    outlet: Penn Engineering Today
+    link: https://blog.seas.upenn.edu/rewriting-the-script-developing-effective-ai-assistants
+    date: Oct 2, 2023
+  - title: Doctorates do Valentines!
+    author: Ebonee Johnson
+    outlet: Official Blog of the Penn Dept. of Computer and Information Science
+    link: https://blog.cis.upenn.edu/doctorates-do-valentines/
+    date: Feb 19, 2021
+mentoring:
+  - mentee: Mialy Rasetarinera
+    program: Penn CIS PhD Mentorship Program
+    date: Fall '25–Present
+  - mentee: Matthew Burke, Ryan Hsing-Smith, Bryan Yao, Joseph Koo, Sebastian Lee, Zachary Arnold
+    program: Undergraduate Senior Design Project
+    date: Fall '23–Spring '24
+  - mentee: Juni Kim
+    program: High School Independent Study
+    date: Summer 2022
+  - mentee: Jasmine Chen
+    program: Undergraduate Thesis
+    date: Spring 2022
+outreach:
+  - host: University of Pennsylvania Dept. of Computer and Information Science
+    role: Invited Panelist
+    event: PhD New Student Orientation
+    date: Sept 2023
+  - host: MindCORE Diversity and Equity Initiative (DivE In)
+    role: Invited Speaker
+    event: Overview of the PhD Application Process
+    date: Nov 2022
+  - host: University of Pennsylvania School of Engineering and Applied Science
+    role: Invited Panelist
+    event: PhD Open House
+    date: Nov 2021
+  - host: ACM Capital Region Celebration of Women in Computing (CAPWIC)
+    role: Invited Panelist
+    event: "Graduate School: Is It Right for Me?"
+    date: Mar 2021
+  - host: University of Pennsylvania School of Engineering and Applied Science
+    role: Invited Panelist
+    event: Graduate Recruitment Panel
+    date: Jan 2021
+  - host: University of Pennsylvania School of Engineering and Applied Science
+    role: Invited Panelist
+    event: PhD Open House
+    date: Nov 2020
+  - host: Columbia University Department of Computer Science
+    role: Invited Speaker
+    event: Alumni-In-Residence Discussion
+    date: Oct 2020
+leadership:
+  - role: Founder
+    org: Penn CIS PhD Mentorship Program
+    date: May 2022
+  - role: Co-Chair
+    org: Computer and Information Science Doctoral Association (CISDA)
+    description: Advocate for student interests and liaise with faculty of CIS and Penn Engineering.
+    date: Sept '20–Sept '23
+  - role: PhD representative
+    org: Department of Computer and Information Science Office Committee
+    date: Sept '22–May '23
+  - role: PhD representative
+    org: Penn Engineering Dean's Doctoral Advisory Board
+    date: Sept '21–May '22
+  - role: Co-organizer
+    org: Penn NLP Computational Linguistics Lunch (CLunch)
+    date: Sept–Dec 2021
+  - role: Co-organizer
+    role2: Programming Development Committee Lead, Steering Committee Member
+    description: Collaborate across departments to establish inaugural DivE In, a fully funded weekend of workshops for underrepresented undergraduates in the mind sciences.
+    org: MindCORE Diversity and Equity Initiative (DivE In)
+    date: Mar–Oct 2021

@@ -1,10 +1,10 @@
 ---
 ---
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Raleway&family=Nunito&family=Zen+Kaku+Gothic+New&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Native&family=Noto+Sans&family=Courier+Prime&family=Raleway&family=Nunito&family=Zen+Kaku+Gothic+New&display=swap');
 
 * {
-    font-family: "Raleway", "Zen Kaku Gothic New", sans-serif;
+    font-family: "Raleway", "Zen Kaku Gothic New", sans-serif, "Signika Native";
 }
 
 code {
@@ -31,11 +31,13 @@ code {
     text-decoration: none;
 }
 
-.lightbg:link, .lightbg:visited {
+.lightbg:link,
+.lightbg:visited {
     color: #22201B;
 }
 
-.darkbg:link, .darkbg:visited {
+.darkbg:link,
+.darkbg:visited {
     color: white;
 }
 
