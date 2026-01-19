@@ -40,7 +40,7 @@ layout: home
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
     <ul>
         <li>Jan 9, 2026: I have some more free time now that I have graduated, so I am challenging myself to post at least once a week until I sign a job offer. My first new post: a <a href="/research-tips/stat-tests">flowchart for choosing a statistical significance test</a>.</li>
-        <li>Dec 18, 2025: Officially graduated! Check out my <a href="/posts/projects/dissertation.html">dissertation and related projects</a>.</li>
+        <li>Dec 18, 2025: Officially graduated! Check out my <a href="/projects/dissertation">dissertation and related projects</a>.</li>
         <li>Nov 26, 2025: I successfully defended my PhD dissertation!</li>
         <li>Aug 4, 2025: I defended my thesis proposal. Officially a PhD candidate! 👩🏻‍🎓 I am on the industry job market and expect to graduate in December.</li>
         <!-- <li>Oct 21, 2024: New collaborations, publications, and pre-prints! <a href="https://aclanthology.org/2024.acl-long.674/">RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors</a> (ACL 2024), <a href="https://aclanthology.org/2024.acl-short.2/">FanOutQA: A Multi-Hop, Multi-Document Question Answering Benchmark for Large Language Models</a> (ACL 2024), <a href="https://arxiv.org/abs/2410.03882">JumpStarter: Getting Started on Personal Goals with AI-Powered Context Curation</a> (in submission), and <a href="https://arxiv.org/abs/2402.18479">NewsQs: Multi-Source Question Generation for the Inquiring Mind</a> (AWS 2022 internship paper).</li> -->
