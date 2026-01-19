@@ -39,6 +39,7 @@ layout: home
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
     <ul>
+        <li> Jan 19, 2026: New post! Inspired by someone recently asking about the thesis proposal, I summarized some of my <a href="/research-tips/phd-reqs">tips and experiences</a> with the Penn CIS PhD graduation requirements.</li>
         <li>Jan 9, 2026: I have some more free time now that I have graduated, so I am challenging myself to post at least once a week until I sign a job offer. My first new post: a <a href="/research-tips/stat-tests">flowchart for choosing a statistical significance test</a>.</li>
         <li>Dec 18, 2025: Officially graduated! Check out my <a href="/projects/dissertation">dissertation and related projects</a>.</li>
         <li>Nov 26, 2025: I successfully defended my PhD dissertation!</li>
