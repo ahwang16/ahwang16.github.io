@@ -39,6 +39,7 @@ layout: home
 
 <div style="display: flex; justify-content: center; align-content: center; flex-direction: column;">
     <ul>
+        <li> Feb 25, 2026: Another one! <a href="/research-tips/phd-benchmarks">PhD progress benchmarks</a> to help you stay on track.</li>
         <li> Feb 20, 2026: Woohoo, two announcements in one day. This time, a blog post on <a href="/research-tips/email-a-phd">How to Email a PhD Student</a>.</li>
         <li> Feb 20, 2026: My latest preprint is available on arXiv: "<a href="https://arxiv.org/abs/2602.16895">Connecting the Dots: Surfacing Structure in Documents through AI-Generated Cross-Modal Links</a>."</li>
         <li> Feb 2, 2026: Fun one day on "<a href="/about-me/lifestyle-defaults">lifestyle defaults</a>."</li>
